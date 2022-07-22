@@ -1,4 +1,4 @@
-Artículo 1
+--Articulo--
 1. Chile es un Estado social y democrático de derecho. Es plurinacional,
 intercultural, regional y ecológico.
 2. Se constituye como una república solidaria. Su democracia es inclusiva y
@@ -12,7 +12,8 @@ para asegurar el igual goce de los derechos y la integración de las personas
 en la vida política, económica, social y cultural para su pleno desarrollo.
 
 
-Artículo
+
+--Articulo--
 1. La soberanía reside en el pueblo de Chile, conformado por diversas naciones.
 Se ejerce democráticamente, de manera directa y representativa,
 reconociendo como límite los derechos humanos en cuanto atributo que
@@ -20,17 +21,18 @@ deriva de la dignidad humana.
 2. Ningún individuo ni sector del pueblo puede atribuirse su ejercicio.
 
 
-Artículo
+
+--Articulo--
 Chile, en su diversidad geográfica, natural, histórica y cultural, forma un
 territorio único e indivisible.
 
 
-Artículo
-Las personas nacen y permanecen libres, interdependientes e iguales en
-dignidad y derechos.
+
+--Articulo-- Las personas nacen y permanecen libres, interdependientes e iguales en dignidad y derechos.
 
 
-Artículo
+
+--Articulo--
 1. Chile reconoce la coexistencia de diversos pueblos y naciones en el marco
 de la unidad del Estado.
 2. Son pueblos y naciones indígenas preexistentes los Mapuche, Aymara,
@@ -45,7 +47,8 @@ popular a nivel comunal, regional y nacional, así como en la estructura del
 Estado, sus órganos e instituciones.
 
 
-Artículo
+
+--Articulo--
 1. El Estado promueve una sociedad donde mujeres, hombres, diversidades y
 disidencias sexuales y de género participen en condiciones de igualdad
 sustantiva, reconociendo que su representación efectiva es un principio y
@@ -68,7 +71,8 @@ diseño institucional, de política fiscal y presupuestaria y en el ejercicio de
 sus funciones.
 
 
-Artículo
+
+--Articulo--
 Chile está conformado por entidades territoriales autónomas y territorios
 especiales, en un marco de equidad y solidaridad, preservando la unidad e
 integridad del Estado. El Estado promoverá la cooperación, la integración
@@ -76,27 +80,31 @@ armónica y el desarrollo adecuado y justo entre las diversas entidades
 territoriales.
 
 
-Artículo
+
+--Articulo--
 Las personas y los pueblos son interdependientes con la naturaleza y forman
 con ella un conjunto inseparable. El Estado reconoce y promueve el buen vivir
 como una relación de equilibrio armónico entre las personas, la naturaleza y
 la organización de la sociedad.
 
 
-Artículo
+
+--Articulo--
 El Estado es laico. En Chile se respeta y garantiza la libertad de religión y de
 creencias espirituales. Ninguna religión ni creencia es la oficial, sin perjuicio
 de su reconocimiento y libre ejercicio, el cual no tiene más limitación que lo
 dispuesto por esta Constitución y la ley.
 
 
-Artículo
+
+--Articulo--
 El Estado reconoce y protege a las familias en sus diversas formas,
 expresiones y modos de vida, sin restringirlas a vínculos exclusivamente
 filiativos o consanguíneos, y les garantiza una vida digna.
 
 
-Artículo
+
+--Articulo--
 El Estado reconoce y promueve el diálogo intercultural, horizontal y
 transversal entre las diversas cosmovisiones de los pueblos y naciones que
 conviven en el país, con dignidad y respeto recíprocos. El ejercicio de las
@@ -107,7 +115,8 @@ existentes en el acceso, la distribución y el ejercicio del poder, así como en
 todos los ámbitos de la vida en sociedad.
 
 
-Artículo
+
+--Articulo--
 1. El Estado es plurilingüe. Su idioma oficial es el castellano. Los idiomas
 indígenas son oficiales en sus territorios y en zonas de alta densidad
 poblacional de cada pueblo y nación indígena. El Estado promueve su
@@ -117,13 +126,15 @@ personas sordas, así como sus derechos lingüísticos en todos los ámbitos de
 la vida social.
 
 
-Artículo
+
+--Articulo--
 1. Son emblemas nacionales de Chile la bandera, el escudo y el himno nacional.
 2. El Estado reconoce los símbolos y emblemas de los pueblos y naciones
 indígenas.
 
 
-Artículo
+
+--Articulo--
 1. Las relaciones internacionales de Chile, como expresión de su soberanía, se
 fundan en el respeto al derecho internacional y a los principios de
 autodeterminación de los pueblos, no intervención en asuntos que son de la
@@ -143,7 +154,8 @@ regional, política, social, cultural, económica y productiva entre los Estados
 facilita el contacto y la cooperación transfronteriza entre pueblos indígenas.
 
 
-Artículo
+
+--Articulo--
 1. Los derechos y las obligaciones establecidos en los tratados internacionales
 de derechos humanos ratificados y vigentes en Chile, los principios generales
 del derecho internacional de los derechos humanos y el derecho
@@ -153,7 +165,8 @@ esta Constitución y gozan de rango constitucional.
 violaciones a los derechos humanos.
 
 
-Artículo
+
+--Articulo--
 1. El Estado se funda en el principio de supremacía constitucional y en el
 respeto a los derechos humanos. Los preceptos de esta Constitución obligan
 a toda persona, grupo, autoridad o institución.
@@ -170,14 +183,16 @@ ejercerá en los plazos y condiciones establecidos por esta Constitución y la
 ley.
 
 
-Artículo
+
+--Articulo--
 1. Los derechos fundamentales son inherentes a la persona humana,
 universales, inalienables, indivisibles e interdependientes.
 2. El pleno ejercicio de estos derechos es esencial para la vida digna de las
 personas y los pueblos, la democracia, la paz y el equilibrio de la naturaleza.
 
 
-Artículo
+
+--Articulo--
 1. Las personas naturales son titulares de derechos fundamentales. Los
 derechos podrán ser ejercidos y exigidos individual o colectivamente.
 2. Los pueblos y naciones indígenas son titulares de derechos fundamentales
@@ -186,7 +201,8 @@ colectivos.
 le sean aplicables.
 
 
-Artículo
+
+--Articulo--
 1. El Estado debe respetar, promover, proteger y garantizar el pleno ejercicio y
 satisfacción de los derechos fundamentales, sin discriminación, así como
 adoptar las medidas necesarias para eliminar todos los obstáculos que
@@ -197,7 +213,8 @@ pertinentes y universales.
 fundamentales, conforme a la Constitución y la ley.
 
 
-Artículo
+
+--Articulo--
 1. El Estado debe adoptar todas las medidas necesarias para lograr de manera
 progresiva la plena satisfacción de los derechos fundamentales. Ninguna de
 ellas podrá tener un carácter regresivo que disminuya, menoscabe o impida
@@ -206,7 +223,8 @@ injustificadamente su ejercicio.
 derechos fundamentales propenderá a la progresividad.
 
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la vida y a la integridad personal. Esta
 comprende la integridad física, psicosocial, sexual y afectiva.
 
@@ -214,19 +232,22 @@ comprende la integridad física, psicosocial, sexual y afectiva.
 torturas, ni penas o tratos crueles, inhumanos o degradantes.
 
 
-Artículo
+
+--Articulo--
 Ninguna persona será sometida a desaparición forzada. Toda víctima tiene
 derecho a ser buscada y el Estado dispondrá de todos los medios necesarios
 para ello.
 
 
-Artículo
+
+--Articulo--
 Ninguna persona que resida en Chile y que cumpla los requisitos establecidos
 en esta Constitución y las leyes podrá ser desterrada, exiliada, relegada ni
 sometida a desplazamiento forzado.
 
 
-Artículo
+
+--Articulo--
 1. Las víctimas y la comunidad tienen derecho al esclarecimiento y
 conocimiento de la verdad respecto de graves violaciones a los derechos
 humanos, especialmente cuando constituyan crímenes de lesa humanidad,
@@ -248,7 +269,8 @@ y memoriales son objeto de especial protección y se asegura su preservación
 y sostenibilidad.
 
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la igualdad, que comprende la igualdad
 sustantiva, la igualdad ante la ley y la no discriminación. Es deber del Estado
 asegurar la igualdad de trato y oportunidades. En Chile no hay persona ni
@@ -277,7 +299,8 @@ en que confluyan, respecto de una persona, más de una categoría, condición
 o motivo.
 
 
-Artículo
+
+--Articulo--
 1. Niñas, niños y adolescentes son titulares de los derechos establecidos en
 esta Constitución y en los tratados internacionales de derechos humanos
 ratificados y vigentes en Chile.
@@ -309,7 +332,8 @@ vulneración de derechos, existan mecanismos para su restitución, sanción y
 reparación.
 
 
-Artículo
+
+--Articulo--
 1. Todas las mujeres, las niñas, las adolescentes y las personas de las
 diversidades y disidencias sexuales y de género tienen derecho a una vida
 libre de violencia de género en todas sus manifestaciones, tanto en el ámbito
@@ -323,7 +347,8 @@ considerando especialmente las situaciones de vulnerabilidad en que puedan
 hallarse.
 
 
-Artículo
+
+--Articulo--
 1. Las personas con discapacidad son titulares de los derechos establecidos en
 esta Constitución y en los tratados internacionales de derechos humanos
 ratificados y vigentes en Chile.
@@ -348,7 +373,8 @@ formas alternativas de comunicación. Asimismo, garantiza la autonomía
 lingüística de las personas sordas en todos los ámbitos de la vida.
 
 
-Artículo
+
+--Articulo--
 El Estado reconoce la neurodiversidad y garantiza a las personas
 neurodivergentes su derecho a una vida autónoma, a desarrollar libremente
 su personalidad e identidad, a ejercer su capacidad jurídica y los derechos
@@ -356,7 +382,8 @@ reconocidos en esta Constitución y los tratados e instrumentos
 internacionales de derechos humanos ratificados y vigentes en Chile.
 
 
-Artículo
+
+--Articulo--
 1. Toda persona sometida a cualquier forma de privación de libertad no puede
 sufrir limitaciones de otros derechos que aquellos estrictamente necesarios
 para la ejecución de la pena.
@@ -372,7 +399,8 @@ no podrá ser sometida a aislamiento o incomunicación como sanción
 disciplinaria.
 
 
-Artículo
+
+--Articulo--
 1. Las personas privadas de libertad tienen derecho a hacer peticiones a la
 autoridad penitenciaria y al tribunal de ejecución de la pena para el resguardo
 de sus derechos y a recibir una respuesta oportuna.
@@ -381,7 +409,8 @@ personal, directo y periódico con sus redes de apoyo y siempre con las
 personas encargadas de su asesoría jurídica.
 
 
-Artículo
+
+--Articulo--
 1. Toda persona privada de libertad tiene derecho a la inserción e integración
 social. Es deber del Estado garantizar un sistema penitenciario orientado a
 este fin.
@@ -391,7 +420,8 @@ privadas de libertad. La seguridad y administración de estos recintos estarán
 reguladas por ley.
 
 
-Artículo
+
+--Articulo--
 1. Las personas mayores son titulares de los derechos establecidos en esta
 Constitución y en los tratados internacionales de derechos humanos
 ratificados y vigentes en Chile.
@@ -403,7 +433,8 @@ independencia y al pleno ejercicio de su capacidad jurídica con los apoyos y
 salvaguardias que correspondan.
 
 
-Artículo
+
+--Articulo--
 Los pueblos y naciones indígenas y sus integrantes, en virtud de su libre
 determinación, tienen derecho al pleno ejercicio de sus derechos colectivos
 e individuales. En especial, tienen derecho a la autonomía; al autogobierno; a
@@ -416,7 +447,8 @@ plenamente, si así́ lo desean, en la vida política, económica, social y cult
 del Estado.
 
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la educación. La educación es un deber
 primordial e ineludible del Estado.
 2. La educación es un proceso de formación y aprendizaje permanente a lo largo
@@ -442,7 +474,8 @@ en los procesos de enseñanza.
 el nivel básico hasta la educación media inclusive.
 
 
-Artículo
+
+--Articulo--
 1. El Sistema Nacional de Educación está integrado por los establecimientos y
 las instituciones de educación parvularia, básica, media y superior, creadas o
 reconocidas por el Estado. Se articula bajo el principio de colaboración y
@@ -472,7 +505,8 @@ modalidades educativas.
 pertinente y suficiente a través de aportes basales, a fin de cumplir plena y
 equitativamente con los fines y principios de la educación.
 
-Artículo
+
+--Articulo--
 1. El Sistema de Educación Superior estará conformado por las universidades,
 los institutos profesionales, los centros de formación técnica, las academias
 creadas o reconocidas por el Estado y las escuelas de formación de las
@@ -501,18 +535,21 @@ tipo de discriminación.
 académicos iniciales serán gratuitos en las instituciones públicas y en
 aquellas privadas que determine la ley.
 
-Artículo
+
+--Articulo--
 Es deber del Estado promover el derecho a la educación permanente a través
 de oportunidades formativas múltiples, dentro y fuera del Sistema Nacional
 de Educación, fomentando diversos espacios de desarrollo y aprendizaje
 integral para todas las personas.
 
-Artículo
+
+--Articulo--
 El Estado garantiza una educación ambiental que fortalezca la preservación,
 la conservación y los cuidados requeridos respecto al medioambiente y la
 naturaleza, y que permita formar conciencia ecológica.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a recibir una educación sexual integral, que
 promueva el disfrute pleno y libre de la sexualidad; la responsabilidad
 sexoafectiva; la autonomía, el autocuidado y el consentimiento; el
@@ -521,7 +558,9 @@ sexualidad; que erradique los estereotipos de género, y que prevenga la
 violencia de género y sexual.
 
 
-Artículo. Se garantiza la libertad de enseñanza y es deber del Estado respetarla.
+
+--Articulo--
+Se garantiza la libertad de enseñanza y es deber del Estado respetarla.
 2. Esta comprende la libertad de madres, padres, apoderadas, apoderados y
 tutores legales a elegir el tipo de educación de las personas a su cargo,
 respetando el interés superior y la autonomía progresiva de niñas, niños y
@@ -530,7 +569,8 @@ adolescentes.
 ejercicio de sus funciones, en el marco de los fines y principios de la
 educación.
 
-Artículo
+
+--Articulo--
 Quienes integran las comunidades educativas tienen derecho a participar en
 las definiciones del proyecto educativo y en las decisiones de cada
 establecimiento, así como en el diseño, la implementación y la evaluación de
@@ -538,7 +578,9 @@ la política educacional local y nacional. La ley especificará las condiciones,
 los órganos y los procedimientos que aseguren su participación vinculante.
 
 
-Artículo. La Constitución reconoce el rol fundamental de las profesoras y los
+
+--Articulo--
+La Constitución reconoce el rol fundamental de las profesoras y los
 profesores, valora y fomenta la contribución de educadoras, educadores,
 asistentes de la educación y educadores tradicionales. En su conjunto, son
 agentes claves para la garantía del derecho a la educación.
@@ -553,7 +595,9 @@ que se desempeñen en establecimientos que reciban recursos del Estado
 gozarán de los mismos derechos que contemple la ley.
 
 
-Artículo. Toda persona tiene derecho a la salud y al bienestar integral, incluyendo sus
+
+--Articulo--
+Toda persona tiene derecho a la salud y al bienestar integral, incluyendo sus
 dimensiones física y mental.
 2. Los pueblos y naciones indígenas tienen derecho a sus propias medicinas
 tradicionales, a mantener sus prácticas de salud y a conservar los
@@ -592,7 +636,9 @@ atención y prevención con enfoque comunitario y aumentará
 progresivamente su financiamiento.
 
 
-Artículo. Toda persona tiene derecho a la seguridad social, fundada en los principios
+
+--Articulo--
+Toda persona tiene derecho a la seguridad social, fundada en los principios
 de universalidad, solidaridad, integralidad, unidad, igualdad, suficiencia,
 participación, sostenibilidad y oportunidad.
 2. La ley establecerá un sistema de seguridad social público, que otorgue
@@ -612,7 +658,9 @@ en la dirección del sistema de seguridad social, en las formas que señale la
 ley.
 
 
-Artículo. Toda persona tiene derecho al trabajo y a su libre elección. El Estado
+
+--Articulo--
+Toda persona tiene derecho al trabajo y a su libre elección. El Estado
 garantiza el trabajo decente y su protección. Este comprende el derecho a
 condiciones laborales equitativas, a la salud y seguridad en el trabajo, al
 descanso, al disfrute del tiempo libre, a la desconexión digital, a la garantía
@@ -639,7 +687,9 @@ organizaciones sindicales.
 humillante o denigrante.
 
 
-Artículo. Las trabajadoras y los trabajadores, tanto del sector público como del
+
+--Articulo--
+Las trabajadoras y los trabajadores, tanto del sector público como del
 privado, tienen derecho a la libertad sindical. Este comprende el derecho a la
 sindicalización, a la negociación colectiva y a la huelga.
 2. Las organizaciones sindicales son titulares exclusivas del derecho a la
@@ -668,13 +718,16 @@ salud o seguridad de la población.
 8. No podrán sindicalizarse ni ejercer el derecho a la huelga quienes integren las
 policías y las Fuerzas Armadas.
 
-Artículo
+
+--Articulo--
 Las trabajadoras y los trabajadores, a través de sus organizaciones sindicales,
 tienen el derecho a participar en las decisiones de la empresa. La ley regulará
 los mecanismos por medio de los cuales se ejercerá este derecho.
 
 
-Artículo. El Estado reconoce que los trabajos domésticos y de cuidados son trabajos
+
+--Articulo--
+El Estado reconoce que los trabajos domésticos y de cuidados son trabajos
 socialmente necesarios e indispensables para la sostenibilidad de la vida y
 el desarrollo de la sociedad. Constituyen una actividad económica que
 contribuye a las cuentas nacionales y deben ser considerados en la
@@ -684,7 +737,9 @@ mecanismos para la redistribución del trabajo doméstico y de cuidados,
 procurando que no representen una desventaja para quienes la ejercen.
 
 
-Artículo. Toda persona tiene derecho al cuidado. Este comprende el derecho a cuidar,
+
+--Articulo--
+Toda persona tiene derecho al cuidado. Este comprende el derecho a cuidar,
 a ser cuidada y a cuidarse desde el nacimiento hasta la muerte. El Estado se
 obliga a proveer los medios para garantizar que el cuidado sea digno y
 realizado en condiciones de igualdad y corresponsabilidad.
@@ -698,7 +753,11 @@ permanente.
 adolescentes, personas mayores, personas en situación de discapacidad,
 personas en situación de dependencia y personas con enfermedades graves
 o terminales. Asimismo, velará por el resguardo de los derechos de quienes
-ejercen trabajos de cuidados. Artículo 51
+ejercen trabajos de cuidados.
+
+
+
+--Articulo--
 1. Toda persona tiene el derecho a una vivienda digna y adecuada, que permita
 el libre desarrollo de una vida personal, familiar y comunitaria.
 2. El Estado tomará las medidas necesarias para asegurar su goce universal y
@@ -722,7 +781,9 @@ la especulación en materia de suelo y vivienda que vaya en desmedro del
 interés público, de conformidad con la ley.
 
 
-Artículo. El derecho a la ciudad y al territorio es un derecho colectivo orientado al bien
+
+--Articulo--
+El derecho a la ciudad y al territorio es un derecho colectivo orientado al bien
 común y se basa en el ejercicio pleno de los derechos humanos en el
 territorio, en su gestión democrática y en la función social y ecológica de la
 propiedad.
@@ -742,7 +803,9 @@ planificación territorial y políticas habitacionales. Asimismo, promueve y
 apoya la gestión comunitaria del hábitat.
 
 
-Artículo. Derecho a vivir en entornos seguros y libres de violencia. Es deber del Estado
+
+--Articulo--
+Derecho a vivir en entornos seguros y libres de violencia. Es deber del Estado
 proteger en forma equitativa el ejercicio de este derecho a todas las
 personas, a través de una política de prevención de la violencia y el delito que
 considerará especialmente las condiciones materiales, ambientales, sociales
@@ -753,7 +816,9 @@ organismos públicos que señalen esta Constitución y la ley, en forma
 coordinada y con irrestricto respeto a los derechos humanos.
 
 
-Artículo. Es deber del Estado asegurar la soberanía y seguridad alimentaria. Para esto
+
+--Articulo--
+Es deber del Estado asegurar la soberanía y seguridad alimentaria. Para esto
 promoverá la producción, la distribución y el consumo de alimentos que
 garanticen el derecho a la alimentación sana y adecuada, el comercio justo y
 sistemas alimentarios ecológicamente responsables.
@@ -763,31 +828,39 @@ recolección y la pesca artesanal, en tanto actividades fundamentales para la
 producción de alimentos.
 4. Del mismo modo, promueve el patrimonio culinario y gastronómico del país.
 
-Artículo
+
+--Articulo--
 El Estado garantiza el derecho de campesinas, campesinos y pueblos y
 naciones indígenas al libre uso e intercambio de semillas tradicionales.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a una alimentación adecuada, saludable,
 suficiente, nutricionalmente completa y pertinente culturalmente. Este
 derecho comprende la garantía de alimentos especiales para quienes lo
 requieran por motivos de salud.
 2. El Estado garantiza en forma continua y permanente la disponibilidad y el
 acceso a los alimentos que satisfagan este derecho, especialmente en zonas
-aisladas geográficamente. Artículo 57
+aisladas geográficamente.
+
+
+
+--Articulo--
 1. Toda persona tiene derecho humano al agua y al saneamiento suficiente,
 saludable, aceptable, asequible y accesible. Es deber del Estado garantizarlo
 para las actuales y futuras generaciones.
 2. El Estado vela por la satisfacción de este derecho atendiendo las
 necesidades de las personas en sus distintos contextos.
 
-Artículo
+
+--Articulo--
 La Constitución reconoce a los pueblos y naciones indígenas el uso
 tradicional de las aguas situadas en territorios indígenas o autonomías
 territoriales indígenas. Es deber del Estado garantizar su protección,
 integridad y abastecimiento.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a un mínimo vital de energía asequible y segura.
 2. El Estado garantiza el acceso equitativo y no discriminatorio a la energía que
 permita a las personas satisfacer sus necesidades, velando por la
@@ -799,7 +872,8 @@ impacto ambiental.
 5. El Estado fomenta y protege las empresas cooperativas de energía y el
 autoconsumo.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho al deporte, a la actividad física y a las prácticas
 corporales. El Estado garantiza su ejercicio en sus distintas dimensiones y
 disciplinas, ya sean recreacionales, educativas, competitivas o de alto
@@ -818,7 +892,8 @@ públicas o privadas que tengan por objeto la gestión del deporte profesional
 como actividad social, cultural y económica, debiendo garantizar la
 democracia y participación vinculante de sus organizaciones.
 
-Artículo
+
+--Articulo--
 1. Toda persona es titular de derechos sexuales y reproductivos. Estos
 comprenden, entre otros, el derecho a decidir de forma libre, autónoma e
 informada sobre el propio cuerpo, sobre el ejercicio de la sexualidad, la
@@ -836,37 +911,46 @@ individuos o instituciones.
 progreso científico para ejercer de manera libre, autónoma y no
 discriminatoria estos derechos.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a la autonomía personal, al libre desarrollo de su
 personalidad, identidad y de sus proyectos de vida.
 
-Artículo
+
+--Articulo--
 Se prohíbe la esclavitud, el trabajo forzado, la servidumbre y la trata de
 personas en cualquiera de sus formas. El Estado adoptará una política de
 prevención, sanción y erradicación de dichas prácticas. Asimismo,
 garantizará la protección, plena restauración de derechos, remediación y
 reinserción social de las víctimas.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho al libre desarrollo y pleno reconocimiento de su
 identidad, en todas sus dimensiones y manifestaciones, incluyendo las
 características sexuales, identidades y expresiones de género, nombre y
 orientaciones sexoafectivas.
 2. El Estado garantiza su ejercicio a través de leyes, acciones afirmativas y
-procedimientos. Artículo 65
+procedimientos.
+
+
+
+--Articulo--
 1. Los pueblos y naciones indígenas y sus integrantes tienen derecho a la
 identidad e integridad cultural y al reconocimiento y respeto de sus
 cosmovisiones, formas de vida e instituciones propias.
 2. Se prohíbe la asimilación forzada y la destrucción de sus culturas.
 
-Artículo
+
+--Articulo--
 Los pueblos y naciones indígenas tienen derecho a ser consultados
 previamente a la adopción de medidas administrativas y legislativas que les
 afectasen. El Estado garantiza los medios para la efectiva participación de
 estos, a través de sus instituciones representativas, de forma previa y libre,
 mediante procedimientos apropiados, informados y de buena fe.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la libertad de pensamiento, de conciencia, de
 religión y de cosmovisión. Este derecho incluye la libertad de profesar y
 cambiar de religión o creencias y su libre ejercicio en el espacio público o en
@@ -882,7 +966,8 @@ personas jurídicas, tienen prohibida toda forma de lucro y sus bienes deben
 gestionarse de forma transparente de conformidad con la ley, respetando los
 derechos, deberes y principios que esta Constitución establece.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a una muerte digna.
 2. La Constitución asegura el derecho de las personas a tomar decisiones libres
 e informadas sobre sus cuidados y tratamientos al final de su vida.
@@ -892,12 +977,14 @@ la vida, en especial a grupos vulnerables y en riesgo social.
 4. La ley regulará las condiciones para garantizar el ejercicio de este derecho,
 incluyendo el acceso a la información y el acompañamiento adecuado.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a la libertad ambulatoria y a la libre circulación,
 a residir, permanecer y trasladarse en cualquier lugar del territorio nacional,
 así como a entrar y salir de él. La ley regulará el ejercicio de este derecho.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la privacidad personal, familiar y comunitaria.
 Ninguna persona ni autoridad podrá afectar, restringir o impedir su ejercicio,
 salvo en los casos y formas que determine la ley.
@@ -908,7 +995,8 @@ flagrancia que establezca la ley.
 metadatos. La interceptación, la captura, la apertura, el registro o la revisión
 solo se podrá realizar con orden judicial previa.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a buscar y recibir asilo y refugio. Una ley regulará
 el procedimiento de solicitud y reconocimiento de la condición de refugiado,
 así como las garantías y protecciones específicas que se establezcan en favor
@@ -917,7 +1005,8 @@ de las personas solicitantes de asilo o refugiadas.
 al Estado donde corra riesgo de persecución, de graves violaciones de
 derechos humanos, o su vida o libertad puedan verse amenazadas.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a asociarse sin permiso previo.
 2. Este comprende la protección de la autonomía de las asociaciones para el
 cumplimiento de sus fines específicos y el establecimiento de su regulación
@@ -927,40 +1016,46 @@ conformidad con la ley.
 4. La ley podrá imponer restricciones específicas al ejercicio de este derecho
 respecto de las policías y de las Fuerzas Armadas.
 
-Artículo
+
+--Articulo--
 1. El Estado reconoce la función social, económica y productiva de las
 cooperativas y fomenta su desarrollo, conforme al principio de ayuda mutua. 2. Las cooperativas podrán agruparse en federaciones, confederaciones o en
 otras formas de organización. La ley regulará su creación y funcionamiento,
 garantizando su autonomía, y preservará, mediante los instrumentos
 correspondientes, su naturaleza y finalidades.
 
-Artículo
+
+--Articulo--
 Los colegios profesionales son corporaciones de derecho público,
 nacionales y autónomas, que colaboran con los propósitos y las
 responsabilidades del Estado. Sus labores consisten en velar por el ejercicio
 ético de sus integrantes, promover la credibilidad y representar oficialmente
 a la profesión ante el Estado y las demás que establezca la ley.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a reunirse y manifestarse pacíficamente en
 lugares privados y públicos sin permiso previo.
 2. Las reuniones en lugares de acceso público solo podrán restringirse en
 conformidad con la ley.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a presentar peticiones, exposiciones o
 reclamaciones ante cualquier autoridad del Estado.
 2. La ley regulará los plazos y la forma en que la autoridad deberá dar respuesta
 a la solicitud, además de la manera en que se garantizará el principio de
 plurilingüismo en el ejercicio de este derecho.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a acceder, buscar, solicitar, recibir y difundir
 información pública de cualquier órgano del Estado o de entidades que
 presten servicios de utilidad pública, en la forma y las condiciones que
 establezca la ley.
 
-Artículo
+
+--Articulo--
 1. Toda persona, natural o jurídica, tiene derecho de propiedad en todas sus
 especies y sobre toda clase de bienes, salvo aquellos que la naturaleza ha
 hecho comunes a todas las personas y los que la Constitución o la ley
@@ -979,7 +1074,8 @@ pago ante los tribunales que determine la ley.
 6. Cualquiera sea la causa invocada para llevar a cabo la expropiación, siempre
 debe estar debidamente fundada.
 
-Artículo
+
+--Articulo--
 1. El Estado reconoce y garantiza, conforme con la Constitución, el derecho de
 los pueblos y naciones indígenas a sus tierras, territorios y recursos.
 2. La propiedad de las tierras indígenas goza de especial protección. El Estado
@@ -992,7 +1088,8 @@ tienen derecho a utilizar los recursos que tradicionalmente han usado u
 ocupado, que se encuentran en sus territorios y sean indispensables para su
 existencia colectiva.
 
-Artículo
+
+--Articulo--
 1. Toda persona, natural o jurídica, tiene libertad de emprender y desarrollar
 actividades económicas. Su ejercicio debe ser compatible con los derechos
 consagrados en esta Constitución y la protección de la naturaleza.
@@ -1001,21 +1098,27 @@ que regulen su ejercicio, las que deberán promover el desarrollo de las
 empresas de menor tamaño y asegurarán la protección de las consumidoras
 y los consumidores.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho, en su condición de consumidora o usuaria, a la
 libre elección, a la información veraz, a no ser discriminada, a la seguridad, a
 la protección de su salud y el medioambiente, a la reparación e
 indemnización adecuada y a la educación para el consumo responsable.
 2. El Estado protegerá el ejercicio de estos derechos, mediante procedimientos
 eficaces y un órgano con facultades interpretativas, fiscalizadoras,
-sancionadoras y las demás que le otorgue la ley. Artículo 82
+sancionadoras y las demás que le otorgue la ley.
+
+
+
+--Articulo--
 1. Toda persona, natural o jurídica, tiene derecho a la libertad de expresión y
 opinión, en cualquier forma y por cualquier medio, el cual comprende la
 libertad de buscar, recibir y difundir informaciones e ideas de toda índole.
 2. No existirá censura previa, sino únicamente las responsabilidades ulteriores
 que determine la ley.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a producir información y a participar
 equitativamente en la comunicación social. Se reconoce el derecho a fundar
 y mantener medios de comunicación e información.
@@ -1027,13 +1130,15 @@ rectificación sea difundida gratuitamente por el mismo medio en que
 hubiese sido emitida. La ley regulará el ejercicio de este derecho, con respeto
 a la libertad de expresión.
 
-Artículo
+
+--Articulo--
 El Estado fomenta la creación de medios de comunicación e información y
 su desarrollo a nivel regional, local y comunitario e impide la concentración
 de la propiedad de estos. En ningún caso se podrá establecer el monopolio
 estatal sobre ellos. Corresponderá a la ley el resguardo de este precepto.
 
-Artículo
+
+--Articulo--
 1. Existirán medios de comunicación e información públicos, en distintos
 soportes tecnológicos, que respondan a las necesidades informativas,
 educativas, culturales y de entretenimiento de los diversos grupos de la
@@ -1044,7 +1149,8 @@ con financiamiento público para su funcionamiento. La ley regulará su
 organización y la composición de sus directorios, la que estará orientada por
 criterios técnicos y de idoneidad.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho al acceso universal a la conectividad digital y a
 las tecnologías de la información y comunicación.
 2. El Estado garantiza el acceso libre, equitativo y descentralizado, con
@@ -1061,17 +1167,11 @@ obligaciones, las condiciones y los límites en esta materia serán
 determinados por la ley.
 6. La infraestructura de telecomunicaciones es
 independientemente de su régimen patrimonial.
-
-de
-
-interés
-
-público,
-
 7. Corresponderá a la ley determinar la utilización y el aprovechamiento del
 espectro radioeléctrico.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la autodeterminación informativa y a la
 protección de datos personales. Este derecho comprende la facultad de
 conocer, decidir y controlar el uso de los datos que le conciernen, acceder,
@@ -1082,14 +1182,16 @@ ley.
 establezca la ley, sujetándose a los principios de licitud, lealtad, calidad,
 transparencia, seguridad, limitación de la finalidad y minimización de datos.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a la protección y promoción de la seguridad
 informática. El Estado y los particulares deberán adoptar las medidas idóneas
 y necesarias que garanticen la integridad, confidencialidad, disponibilidad y
 resiliencia de la información que contengan los sistemas informáticos que
 administren, salvo los casos expresamente señalados por la ley.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a participar de un espacio digital libre de
 violencia. El Estado desarrollará acciones de prevención, promoción,
 reparación y garantía de este derecho, otorgando especial protección a mujeres, niñas, niños, adolescentes y diversidades y disidencias sexuales y
@@ -1097,17 +1199,20 @@ de género.
 2. Las obligaciones, las condiciones y los límites en esta materia serán
 determinados por ley.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a la educación digital, al desarrollo del
 conocimiento, pensamiento y lenguaje tecnológico, así como a gozar de sus
 beneficios. El Estado asegura que toda persona pueda ejercer sus derechos
 en los espacios digitales, para lo cual creará políticas públicas y financiará
 planes y programas gratuitos con tal objeto.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho al ocio, al descanso y a disfrutar el tiempo libre.
 
-Artículo
+
+--Articulo--
 1. Toda persona y comunidad tiene derecho a participar libremente en la vida
 cultural y artística y a gozar de sus diversas expresiones, bienes, servicios e
 institucionalidad. Tiene derecho a la libertad de crear y difundir las culturas y
@@ -1129,17 +1234,20 @@ expresiones.
 6. El Estado promueve las condiciones para el libre desarrollo de la identidad
 cultural de las comunidades y personas, así como de sus procesos culturales.
 
-Artículo
+
+--Articulo--
 La Constitución reconoce los derechos culturales del pueblo tribal
 afrodescendiente chileno y asegura su ejercicio, desarrollo, promoción,
 conservación y protección.
 
-Artículo
+
+--Articulo--
 El Estado fomenta el acceso al libro y al goce de la lectura a través de planes,
 políticas públicas y programas. Asimismo, incentivará la creación y
 fortalecimiento de bibliotecas públicas y comunitarias.
 
-Artículo
+
+--Articulo--
 1. La Constitución asegura a toda persona la protección de los derechos de
 autor sobre sus obras intelectuales, científicas y artísticas. Estos
 comprenden los derechos morales y patrimoniales sobre ellas, en
@@ -1148,7 +1256,8 @@ del autor.
 2. Se asegura la protección de los derechos de intérpretes o ejecutantes sobre
 sus interpretaciones o ejecuciones, de conformidad con la ley.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a participar libremente de la creación, el
 desarrollo, la conservación y la innovación de los diversos sistemas de
 conocimientos y a la transferencia de sus aplicaciones, así como a gozar de
@@ -1163,7 +1272,8 @@ preservar, revitalizar, desarrollar y transmitir los conocimientos tradicionales
 y saberes ancestrales y debe, en conjunto con ellos, adoptar medidas
 eficaces para garantizar su ejercicio.
 
-Artículo
+
+--Articulo--
 1. La Constitución garantiza la libertad de investigación.
 2. Es deber del Estado estimular, promover y fortalecer el desarrollo de la
 investigación científica y tecnológica en todas las áreas del conocimiento,
@@ -1179,7 +1289,8 @@ objetivos establecidos en este artículo, su colaboración con centros de
 investigación públicos y privados con pertinencia territorial, sus
 características y funcionamiento.
 
-Artículo
+
+--Articulo--
 Las ciencias y tecnologías, sus aplicaciones y procesos investigativos deben
 desarrollarse según los principios bioéticos de solidaridad, cooperación,
 responsabilidad y con pleno respeto a la dignidad humana, la sintiencia de
@@ -1187,7 +1298,8 @@ los animales, los derechos de la naturaleza y los demás derechos
 establecidos en esta Constitución y en tratados internacionales de derechos
 humanos ratificados y vigentes en Chile.
 
-Artículo
+
+--Articulo--
 1. El Consejo Nacional de Bioética es un órgano independiente, técnico, de
 carácter consultivo, pluralista y transdisciplinario que tendrá, entre sus
 funciones, asesorar a los organismos del Estado en los asuntos bioéticos que
@@ -1197,19 +1309,22 @@ dichas materias.
 2. La ley regulará la composición, las funciones, la organización y los demás
 aspectos de este órgano.
 
-Artículo
+
+--Articulo--
 Toda persona y pueblo tiene derecho a comunicarse en su propia lengua o
 idioma y a usarlas en todo espacio. Ninguna persona o grupo será
 discriminado por razones lingüísticas.
 
-Artículo
+
+--Articulo--
 El Estado reconoce y protege los patrimonios naturales y culturales,
 materiales e inmateriales y garantiza su conservación, revitalización,
 aumento, salvaguardia y transmisión a las generaciones futuras, cualquiera
 sea el régimen jurídico y titularidad de dichos bienes. Asimismo, fomenta su
 difusión y educación.
 
-Artículo
+
+--Articulo--
 1. El Estado, en conjunto con los pueblos y naciones indígenas, adoptará
 medidas positivas para la recuperación, la revitalización y el fortalecimiento
 del patrimonio cultural indígena.
@@ -1222,30 +1337,39 @@ eficaces para su restitución y repatriación. A su vez, garantiza el acceso a s
 patrimonio, incluyendo objetos de su cultura, restos humanos y sitios
 culturalmente significativos para su desarrollo.
 
-Artículo
+
+--Articulo--
 1. La naturaleza tiene derecho a que se respete y proteja su existencia, a la
 regeneración, a la mantención y a la restauración de sus funciones y
 equilibrios dinámicos, que comprenden los ciclos naturales, los ecosistemas
 y la biodiversidad.
 2. El Estado debe garantizar y promover los derechos de la naturaleza.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a un ambiente sano y ecológicamente
 equilibrado.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho al aire limpio durante todo su ciclo de vida.
 
-Artículo
+
+--Articulo--
 La ley podrá establecer restricciones al ejercicio de determinados derechos
 para proteger el medioambiente y la naturaleza.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho de acceso responsable y universal a las
 montañas, riberas de ríos, mar, playas, lagos, lagunas y humedales.
 2. El ejercicio de este derecho, las obligaciones de los propietarios aledaños, el
 régimen de responsabilidad aplicable y el acceso a otros espacios naturales,
-serán establecidos por ley. Artículo 108
+serán establecidos por ley.
+
+
+
+--Articulo--
 1. Toda persona tiene derecho al pleno acceso a la justicia y a requerir de los
 tribunales de justicia la tutela efectiva de sus derechos e intereses legítimos,
 de manera oportuna y eficaz conforme a los principios y estándares
@@ -1273,7 +1397,8 @@ intérpretes, facilitadores interculturales y peritajes consultivos, cuando así
 requieran y no puedan proveérselos por sí mismas.
 8. El Estado garantiza el acceso a la justicia ambiental.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a un proceso razonable y justo en que se
 salvaguarden las garantías que se señalan en esta Constitución, en la ley y en
 los tratados internacionales ratificados y vigentes en Chile.
@@ -1297,7 +1422,8 @@ necesarios y adecuados a la edad o discapacidad de las personas, según
 corresponda, a fin de permitirles su debida participación en el proceso.
 9. Los procedimientos judiciales serán establecidos por ley.
 
-Artículo
+
+--Articulo--
 1. Ninguna persona puede ser privada de su libertad arbitrariamente ni esta ser
 restringida, sino en los casos y en la forma determinados por la Constitución
 y la ley.
@@ -1314,7 +1440,8 @@ objeto. Su ingreso debe constar en un registro público.
 5. Se prohíbe la detención por deudas, salvo en caso de incumplimiento de
 deberes alimentarios.
 
-Artículo
+
+--Articulo--
 Toda persona tiene derecho a las siguientes garantías procesales penales
 mínimas:
 a) Que toda actuación de la investigación o procedimiento que le prive,
@@ -1345,7 +1472,8 @@ excepcional y durante el período más breve que proceda y conforme a lo
 establecido en esta Constitución, la ley y los tratados internacionales de
 derechos humanos ratificados y vigentes en Chile.
 
-Artículo
+
+--Articulo--
 1. Ninguna persona podrá ser condenada por acciones u omisiones que al
 producirse no constituyan delito según la legislación vigente en aquel
 momento.
@@ -1357,7 +1485,8 @@ descrita de manera clara y precisa en ella.
 4. Lo establecido en este artículo también será aplicable a las medidas de
 seguridad.
 
-Artículo
+
+--Articulo--
 1. Un órgano desconcentrado de carácter técnico, denominado Servicio Integral
 de Acceso a la Justicia, tendrá por función prestar asesoría, defensa y
 representación letrada de calidad a las personas, así como también brindar
@@ -1367,7 +1496,8 @@ planta de personal del Servicio Integral de Acceso a la Justicia, considerando
 un despliegue territorialmente desconcentrado.
 Nacionalidad y ciudadanía
 
-Artículo
+
+--Articulo--
 1. Son chilenas y chilenos quienes:
 a) Hayan nacido en el territorio de Chile. Se exceptúan las hijas y los hijos de
 personas extranjeras que se encuentren en Chile en servicio de su
@@ -1386,14 +1516,19 @@ pertenencia a alguno de los pueblos y naciones indígenas del país.
 en favor de quienes la perdieron o tuvieron que renunciar a ella como
 consecuencia del exilio, sus hijas e hijos.
 
-Artículo
+
+--Articulo--
 1. Toda persona tiene derecho a la nacionalidad en la forma y las condiciones
 que señala este artículo. La ley podrá crear procedimientos más favorables
 para la nacionalización de personas apátridas.
 2. La nacionalidad chilena confiere el derecho incondicional a residir en el
 territorio chileno y a retornar a él. Concede, además, el derecho a la
 protección diplomática por parte del Estado de Chile y los demás derechos
-que la Constitución y las leyes vinculen al estatuto de nacionalidad. Artículo 116
+que la Constitución y las leyes vinculen al estatuto de nacionalidad.
+
+
+
+--Articulo--
 1. La nacionalidad chilena únicamente se pierde por las siguientes causales, y
 solo si con ello la persona no queda en condición de apátrida:
 a) Renuncia voluntaria manifestada ante autoridad chilena competente.
@@ -1404,7 +1539,8 @@ c) Revocación por ley de la nacionalización concedida por gracia.
 2. En el caso de la letra a), la nacionalidad podrá recuperarse por carta de
 nacionalización. En los restantes casos, podrá ser solo por ley.
 
-Artículo
+
+--Articulo--
 1. Las personas que tienen la nacionalidad chilena son ciudadanas y
 ciudadanos de Chile. Las que pierdan aquella, perderán también la
 ciudadanía.
@@ -1418,7 +1554,8 @@ libertad, personas con discapacidad, personas mayores y personas cuyas
 circunstancias o capacidades personales disminuyan sus posibilidades de
 ejercicio.
 
-Artículo
+
+--Articulo--
 1. Las personas chilenas que se encuentren en el exterior forman parte de la
 comunidad política del país.
 2. Se garantiza el derecho a votar en las elecciones de carácter nacional,
@@ -1428,7 +1565,8 @@ Constitución y las leyes.
 Estado asegurará la reunificación familiar y el retorno voluntario al territorio
 nacional.
 
-Artículo
+
+--Articulo--
 1. Toda persona que, por causa de un acto o una omisión, sufra una amenaza,
 perturbación o privación en el legítimo ejercicio de sus derechos
 fundamentales, podrá concurrir por sí o por cualquiera en su nombre ante el
@@ -1465,7 +1603,11 @@ ejercer esta acción tanto la Defensoría de la Naturaleza como cualquier
 persona o grupo.
 9. En el caso de los derechos de los pueblos indígenas y tribales, esta acción
 podrá ser deducida por las instituciones representativas de los pueblos
-indígenas, sus integrantes o la Defensoría del Pueblo. Artículo 120
+indígenas, sus integrantes o la Defensoría del Pueblo.
+
+
+
+--Articulo--
 1. Toda persona que sea arrestada, detenida o presa con infracción a lo
 dispuesto en esta Constitución o las leyes podrá concurrir por sí o por
 cualquiera persona en su nombre, sin formalidades, ante la magistratura que
@@ -1488,7 +1630,8 @@ personal, ambulatoria o seguridad individual, debiendo, en tal caso, adoptarse
 todas las medidas que sean conducentes para restablecer el imperio del
 derecho y asegurar la debida protección del afectado.
 
-Artículo
+
+--Articulo--
 1. Toda persona que sea absuelta, sobreseída definitivamente o que no resulte
 condenada será compensada por cada día que haya permanecido privada de
 libertad. El monto diario de compensación será fijado por la ley y su pago se
@@ -1496,7 +1639,8 @@ realizará mediante un procedimiento simple y expedito.
 2. La compensación no procederá cuando la privación de libertad se haya
 decretado por una causal fundada en una conducta efectiva del imputado.
 
-Artículo
+
+--Articulo--
 1. Toda persona que haya sido condenada por sentencia dictada con error
 injustificado o falta de servicio judicial tendrá derecho a ser indemnizada de
 todos los perjuicios que el proceso y la decisión condenatoria le hayan
@@ -1507,7 +1651,8 @@ presente indemnización. La misma indemnización procederá por las
 actuaciones o decisiones administrativas derivadas del funcionamiento
 judicial que, con falta de servicio, generen daño.
 
-Artículo
+
+--Articulo--
 1. Un órgano autónomo, con personalidad jurídica y patrimonio propio,
 denominado Defensoría del Pueblo, tendrá como función la promoción y
 protección de los derechos humanos asegurados en esta Constitución, en los
@@ -1522,7 +1667,8 @@ regionales, conforme a lo que establezca su ley. La ley determinará las
 atribuciones, la organización, el funcionamiento y los procedimientos de la
 Defensoría del Pueblo.
 
-Artículo
+
+--Articulo--
 1. La Defensoría del Pueblo tendrá las siguientes atribuciones:
 a) Fiscalizar a los órganos del Estado y a las entidades privadas que ejerzan
 actividades de servicio o utilidad pública, en el cumplimiento de sus
@@ -1552,7 +1698,8 @@ ley.
 3. Durante los estados de excepción constitucional la Defensoría del Pueblo
 ejercerá plenamente sus atribuciones.
 
-Artículo
+
+--Articulo--
 1. La dirección de la Defensoría del Pueblo estará a cargo de una defensora o un
 defensor del pueblo, quien será designado por la mayoría de quienes integren
 el Congreso de Diputadas y Diputados y la Cámara de las Regiones, en sesión
@@ -1573,7 +1720,8 @@ Suprema, por notable abandono de deberes, en la forma que establezca la ley.
 5. Existirá un Consejo de la Defensoría del Pueblo, cuya composición,
 funcionamiento y atribuciones serán determinados por la ley.
 
-Artículo
+
+--Articulo--
 1. Existirá un órgano autónomo, con personalidad jurídica y patrimonio propio,
 denominado Defensoría de los Derechos de la Niñez, que tendrá por objeto
 la promoción y protección de los derechos de que son titulares niñas, niños
@@ -1583,14 +1731,16 @@ internacionales ratificados y vigentes en Chile y la legislación nacional.
 2. La ley determinará la organización, las funciones y las atribuciones de la
 Defensoría de los Derechos de la Niñez.
 
-Artículo
+
+--Articulo--
 1. La naturaleza tiene derechos. El Estado y la sociedad tienen el deber de
 protegerlos y respetarlos.
 2. El Estado debe adoptar una administración ecológicamente responsable y
 promover la educación ambiental y científica mediante procesos de
 formación y aprendizaje permanentes.
 
-Artículo
+
+--Articulo--
 1. Son principios para la protección de la naturaleza y el medioambiente, a lo
 menos, los de progresividad, precautorio, preventivo, de justicia ambiental,
 de solidaridad intergeneracional, de responsabilidad y de acción climática
@@ -1599,7 +1749,8 @@ justa.
 sanciones administrativas, penales y civiles que correspondan conforme a la
 Constitución y las leyes.
 
-Artículo
+
+--Articulo--
 1. Es deber del Estado adoptar acciones de prevención, adaptación y mitigación
 de los riesgos, las vulnerabilidades y los efectos provocados por la crisis
 climática y ecológica.
@@ -1607,29 +1758,37 @@ climática y ecológica.
 internacional para adaptarse, mitigar y afrontar la crisis climática y ecológica
 y proteger la naturaleza.
 
-Artículo
+
+--Articulo--
 El Estado protege la biodiversidad, debiendo preservar, conservar y restaurar
 el hábitat de las especies nativas silvestres en la cantidad y distribución
 adecuada para sostener la viabilidad de sus poblaciones y asegurar las
 condiciones para su supervivencia y no extinción.
 
-Artículo
+
+--Articulo--
 1. Los animales son sujetos de especial protección. El Estado los protegerá,
 reconociendo su sintiencia y el derecho a vivir una vida libre de maltrato.
 2. El Estado y sus órganos promoverán una educación basada en la empatía y
-en el respeto hacia los animales. Artículo 132
+en el respeto hacia los animales.
+
+
+
+--Articulo--
 El Estado, a través de un sistema nacional de áreas protegidas, único, integral
 y de carácter técnico, debe garantizar la preservación, restauración y
 conservación de espacios naturales. Asimismo, debe monitorear y mantener
 información actualizada relativa a los atributos de dichas áreas y garantizar
 la participación de las comunidades locales y entidades territoriales.
 
-Artículo
+
+--Articulo--
 Es deber del Estado regular y fomentar la gestión, reducción y valorización de
 residuos.
 Bienes comunes naturales
 
-Artículo
+
+--Articulo--
 1. Los bienes comunes naturales son elementos o componentes de la
 naturaleza sobre los cuales el Estado tiene un deber especial de custodia con
 el fin de asegurar los derechos de la naturaleza y el interés de las generaciones
@@ -1658,25 +1817,30 @@ ya sean individuales o colectivas, no generan derechos de propiedad.
 constitucionales de custodia de los bienes comunes naturales. La ley
 determinará el procedimiento y los requisitos de esta acción.
 
-Artículo
+
+--Articulo--
 1. El Estado debe impulsar medidas para conservar la atmósfera y el cielo
 nocturno, según las necesidades territoriales.
 2. Es deber del Estado contribuir y cooperar internacionalmente en la
 investigación del espacio con fines pacíficos y científicos.
 
-Artículo
+
+--Articulo--
 El Estado, como custodio de los humedales, bosques nativos y suelos,
 asegurará la integridad de estos ecosistemas, sus funciones, procesos y
 conectividad hídrica.
 
-Artículo
+
+--Articulo--
 El Estado garantiza la protección de los glaciares y del entorno glaciar,
 incluyendo los suelos congelados y sus funciones ecosistémicas.
 
-Artículo
+
+--Articulo--
 El Estado protegerá la función ecológica y social de la tierra.
 
-Artículo
+
+--Articulo--
 1. Chile es un país oceánico que reconoce la existencia del maritorio como una
 categoría jurídica que, al igual que el territorio, debe contar con regulación
 normativa específica, que incorpore sus características propias en los
@@ -1691,25 +1855,29 @@ cuerpos legales que materialicen su institucionalización, mediante un trato
 diferenciado, autónomo y descentralizado, según corresponda, sobre la base
 de la equidad y justicia territorial. Estatuto de las aguas
 
-Artículo
+
+--Articulo--
 1. El agua es esencial para la vida y el ejercicio de los derechos humanos y de la
 naturaleza. El Estado debe proteger las aguas, en todos sus estados y fases, y
 su ciclo hidrológico.
 2. Siempre prevalecerá el ejercicio del derecho humano al agua, el saneamiento
 y el equilibrio de los ecosistemas. La ley determinará los demás usos.
 
-Artículo
+
+--Articulo--
 El Estado deberá promover y proteger la gestión comunitaria de agua potable
 y saneamiento, especialmente en áreas y territorios rurales y extremos, en
 conformidad con la ley.
 
-Artículo
+
+--Articulo--
 El Estado velará por un uso razonable de las aguas. Las autorizaciones de uso
 de agua serán otorgadas por la Agencia Nacional del Agua, de carácter
 incomerciable, concedidas basándose en la disponibilidad efectiva de las
 aguas, y obligarán al titular al uso que justifica su otorgamiento.
 
-Artículo
+
+--Articulo--
 1. El Estado asegurará un sistema de gobernanza de las aguas participativo y
 descentralizado, a través del manejo integrado de cuencas. La cuenca
 hidrográfica será la unidad mínima de gestión.
@@ -1725,7 +1893,8 @@ alcanzar el control por sí solo.
 aquellos casos en que no se constituya un consejo, la administración será
 determinada por la Agencia Nacional del Agua.
 
-Artículo
+
+--Articulo--
 1. La Agencia Nacional del Agua es un órgano autónomo, con personalidad
 jurídica y patrimonio propio, que funciona de forma desconcentrada y está
 encargada de asegurar el uso sostenible del agua para las generaciones
@@ -1757,7 +1926,8 @@ j) Las demás que establezca la ley.
 y las demás funciones y competencias de la Agencia Nacional del Agua.
 Estatuto de los minerales
 
-Artículo
+
+--Articulo--
 1. El Estado tiene el dominio absoluto, exclusivo, inalienable e imprescriptible
 de todas las minas y las sustancias minerales, metálicas, no metálicas y los
 depósitos de sustancias fósiles e hidrocarburos existentes en el territorio
@@ -1765,12 +1935,17 @@ nacional, con excepción de las arcillas superficiales, sin perjuicio de la
 propiedad sobre los terrenos en que estén situadas.
 2. La exploración, la explotación y el aprovechamiento de estas sustancias se
 sujetarán a una regulación que considere su carácter finito, no renovable, de
-interés público intergeneracional y la protección ambiental. Artículo 146
+interés público intergeneracional y la protección ambiental.
+
+
+
+--Articulo--
 Quedan excluidos de toda actividad minera los glaciares, las áreas protegidas,
 las que por razones de protección hidrográfica establezca la ley y las demás
 que ella declare.
 
-Artículo
+
+--Articulo--
 1. El Estado debe establecer una política para la actividad minera y su
 encadenamiento productivo, la que considerará, a lo menos, la protección
 ambiental y social, la innovación y la generación de valor agregado.
@@ -1788,7 +1963,8 @@ herramientas, tecnologías y recursos para el ejercicio tradicional y
 sustentable de la actividad.
 Defensoría de la Naturaleza
 
-Artículo
+
+--Articulo--
 1. Un órgano autónomo, con personalidad jurídica y patrimonio propio,
 denominado Defensoría de la Naturaleza, tendrá como función la promoción
 y protección de los derechos de la naturaleza y de los derechos ambientales
@@ -1799,7 +1975,8 @@ de la Administración del Estado y de entidades privadas.
 La ley determinará las atribuciones, la organización, el funcionamiento y los
 procedimientos de la Defensoría de la Naturaleza.
 
-Artículo
+
+--Articulo--
 La Defensoría de la Naturaleza tendrá las siguientes atribuciones:
 a) Fiscalizar a los órganos del Estado y a las entidades privadas en el
 cumplimiento de sus obligaciones en materia de derechos ambientales y
@@ -1813,7 +1990,8 @@ e) Promover la formación y educación en derechos ambientales y de la
 naturaleza.
 f) Las demás que le encomienden la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 La dirección de la Defensoría de la Naturaleza estará a cargo de una defensora
 o un defensor de la naturaleza, quien será designado en sesión conjunta del
 Congreso de Diputadas y Diputados y de la Cámara de las Regiones, por la
@@ -1822,7 +2000,8 @@ las organizaciones ambientales de la sociedad civil, en la forma que
 determine la ley. CAPÍTULO IV
 PARTICIPACIÓN DEMOCRÁTICA
 
-Artículo
+
+--Articulo--
 1. En Chile, la democracia se ejerce en forma directa, participativa, comunitaria
 y representativa.
 2. Es deber del Estado promover y garantizar la adopción de medidas para la
@@ -1833,7 +2012,8 @@ popular y su funcionamiento respetará los principios de autonomía,
 probidad, transparencia financiera y democracia interna.
 Participación y representación democrática
 
-Artículo
+
+--Articulo--
 1. La ciudadanía tiene el derecho a participar de manera incidente o vinculante
 en los asuntos de interés público. Es deber del Estado dar adecuada
 publicidad a los mecanismos de democracia, tendiendo a favorecer una
@@ -1850,7 +2030,8 @@ participación posible en dichos procesos, al igual que la más amplia
 información, transparencia, seguridad y accesibilidad del proceso para todas
 las personas sin distinción.
 
-Artículo
+
+--Articulo--
 1. El Estado deberá garantizar a toda la ciudadanía, sin discriminación de ningún
 tipo, el ejercicio pleno de una democracia participativa, a través de
 mecanismos de democracia directa.
@@ -1865,7 +2046,8 @@ afirmativas que posibiliten su participación efectiva.
 4. La ley deberá establecer las medidas afirmativas necesarias para garantizar
 la participación y representación política de las personas con discapacidad.
 
-Artículo
+
+--Articulo--
 1. Es deber del Estado garantizar la democracia ambiental. Se reconoce el
 derecho de participación informada en materias ambientales. Los
 mecanismos de participación serán determinados por ley.
@@ -1874,7 +2056,8 @@ conste en poder o custodia del Estado. Los particulares deberán entregar la
 información ambiental relacionada con su actividad, en los términos que
 establezca la ley.
 
-Artículo
+
+--Articulo--
 El estatuto regional considerará mecanismos de democracia directa o
 semidirecta que aseguren la participación incidente o vinculante de la
 población, según corresponda. Del mismo modo, considerará, al menos, la
@@ -1883,7 +2066,8 @@ municipal, de carácter vinculante, así como consultas ciudadanas incidentes.
 La planificación presupuestaria de las distintas entidades territoriales
 siempre incorporará elementos de participación incidente de la población.
 
-Artículo
+
+--Articulo--
 Se podrán someter a referéndum las materias de competencia de los
 gobiernos regionales y locales conforme a lo dispuesto en la ley y en el
 estatuto regional respectivo. Una ley señalará los requisitos mínimos para
@@ -1891,7 +2075,8 @@ solicitarlos o convocarlos, la época en que se podrán llevar a cabo, los
 mecanismos de votación y escrutinio, y los casos y condiciones en que sus
 resultados serán vinculantes.
 
-Artículo
+
+--Articulo--
 1. Un grupo de personas habilitadas para sufragar, equivalente al tres por ciento
 del último padrón electoral, podrá presentar una iniciativa popular de ley para
 su tramitación legislativa.
@@ -1905,7 +2090,8 @@ estas iniciativas.
 3. La iniciativa popular de ley no podrá referirse a tributos, a la administración
 presupuestaria del Estado ni limitar derechos fundamentales.
 
-Artículo
+
+--Articulo--
 1. Un grupo de personas habilitadas para sufragar, equivalente al cinco por
 ciento del último padrón electoral, podrá presentar una iniciativa de
 derogación total o parcial de una o más leyes promulgadas bajo la vigencia
@@ -1913,14 +2099,16 @@ de esta Constitución para que sea votada mediante referéndum nacional.
 2. No serán admisibles las iniciativas sobre materias que digan relación con
 tributos o administración presupuestaria del Estado.
 
-Artículo
+
+--Articulo--
 El Congreso de Diputadas y Diputados, la Cámara de las Regiones y los
 órganos representativos a nivel regional y comunal realizarán audiencias
 públicas en las oportunidades y las formas que la ley disponga, en el que las
 personas y la sociedad civil den a conocer propuestas y argumentos.
 Sufragio y sistema electoral
 
-Artículo
+
+--Articulo--
 1. El sufragio es universal, igualitario, libre, directo, personal y secreto. Es
 obligatorio para quienes hayan cumplido dieciocho años y voluntario para las
 personas de dieciséis y diecisiete años y para las chilenas y los chilenos que
@@ -1937,7 +2125,7 @@ Para esto se constituirá un distrito especial exterior.
 podrán ejercer este derecho en los casos y las formas que determinen la
 Constitución y la ley.
 6. La ley establecerá las condiciones para asegurar el ejercicio de este derecho.
-Artículo1
+Artículo
 1. Para las elecciones populares, la ley creará un sistema electoral conforme a
 los principios de igualdad sustantiva, paridad, alternabilidad de género y los
 demás contemplados en esta Constitución y las leyes. Dicho sistema deberá
@@ -1948,7 +2136,8 @@ asegurará que las listas electorales sean encabezadas siempre por una mujer.
 ministerio de la ley, quienes cumplan los requisitos establecidos por esta
 Constitución. La ley determinará su organización y funcionamiento.
 
-Artículo
+
+--Articulo--
 1. En los órganos colegiados de representación popular a nivel nacional,
 regional y comunal se establecen escaños reservados para los pueblos y
 naciones indígenas cuando corresponda y en proporción a su población
@@ -1965,7 +2154,8 @@ autoidentifiquen como tales, en los términos que indique la ley.
 3. Se creará un registro del pueblo tribal afrodescendiente chileno bajo las
 mismas reglas del presente artículo.
 
-Artículo
+
+--Articulo--
 1. Las organizaciones políticas reconocidas legalmente implementarán la
 paridad de género en sus espacios de dirección, asegurando la igualdad
 sustantiva en sus dimensiones organizativa y electoral y promoviendo la
@@ -1976,7 +2166,11 @@ necesarias para erradicar la violencia de género con el fin de asegurar que
 todas las personas ejerzan plenamente sus derechos políticos.
 3. La ley arbitrará los medios para incentivar la participación de las personas de
 las diversidades y disidencias sexuales y de género en los procesos
-electorales. Artículo 164
+electorales.
+
+
+
+--Articulo--
 1. Un órgano autónomo, con personalidad jurídica y patrimonio propio,
 denominado Servicio Electoral, ejerce la administración, supervigilancia y
 fiscalización de los procesos electorales y plebiscitarios; del cumplimiento
@@ -2009,7 +2203,8 @@ tales procesos, en colaboración con otros organismos del Estado y la
 sociedad civil. También deberá velar por la implementación y la recta
 ejecución de estos mecanismos.
 
-Artículo
+
+--Articulo--
 1. El ejercicio de las funciones públicas obliga a sus titulares a dar
 cumplimiento a los principios de probidad, transparencia y rendición de
 cuentas en todas sus actuaciones. Además, se rige por los principios de
@@ -2018,7 +2213,8 @@ enfoque de género, inclusión, no discriminación y sustentabilidad.
 2. La función pública se deberá brindar con pertinencia territorial, cultural y
 lingüística.
 
-Artículo
+
+--Articulo--
 1. El principio de probidad consiste en observar una conducta funcionaria
 responsable e intachable, desempeñando la función o el cargo
 correspondiente en forma leal, honesta, objetiva e imparcial, sin incurrir en
@@ -2031,7 +2227,8 @@ terceros la administración de aquellos bienes y obligaciones que supongan
 un conflicto de interés en el ejercicio de la función pública. Asimismo, podrá
 considerar otras medidas apropiadas para resolverlos.
 
-Artículo
+
+--Articulo--
 1. La Constitución asegura a todas las personas la transparencia de la
 información pública facilitando su acceso de manera comprensible y
 oportuna, periódica, proactiva, legible y en formatos abiertos, en los plazos y
@@ -2049,14 +2246,16 @@ razones de seguridad del Estado o el interés nacional, protección de los derec
 debido cumplimiento de las funciones de la respectiva institución, conforme
 a sus fines.
 
-Artículo
+
+--Articulo--
 Los órganos del Estado y quienes ejercen una función pública deben rendir
 cuenta y asumir la responsabilidad en el ejercicio de su cargo, en la forma y
 las condiciones que establezca la ley. El Estado promoverá la participación
 activa de las personas y la sociedad civil en la fiscalización del cumplimiento
 de este deber.
 
-Artículo
+
+--Articulo--
 1. El Consejo para la Transparencia es un órgano autónomo, especializado y
 objetivo con personalidad jurídica y patrimonio propio, encargado de
 promover la transparencia de la función pública, fiscalizar el cumplimiento
@@ -2064,7 +2263,8 @@ de las normas sobre transparencia y publicidad de la información de los
 órganos del Estado y garantizar el derecho de acceso a la información pública.
 2. La ley regulará su composición, organización, funcionamiento y atribuciones.
 
-Artículo
+
+--Articulo--
 1. La corrupción es contraria al bien común y atenta contra el sistema
 democrático.
 2. Es deber del Estado promover la integridad de la función pública y erradicar
@@ -2076,12 +2276,14 @@ instancias y los mecanismos que correspondan para el cumplimiento de
 estos fines y perseguir la aplicación de las sanciones administrativas, civiles
 y penales que correspondan, en la forma que determine la ley.
 
-Artículo
+
+--Articulo--
 El Estado asegura a todas las personas la debida protección, confidencialidad
 e indemnidad al denunciar infracciones en el ejercicio de la función pública,
 especialmente faltas a la probidad, transparencia y hechos de corrupción.
 
-Artículo
+
+--Articulo--
 No podrán optar a cargos públicos ni de elección popular las personas
 condenadas por crímenes de lesa humanidad, delitos sexuales y de violencia
 intrafamiliar, aquellos vinculados a corrupción como fraude al fisco, lavado
@@ -2089,12 +2291,14 @@ de activos, soborno, cohecho, malversación de caudales públicos y los demás
 que así establezca la ley. Los términos y plazos de estas inhabilidades se
 determinarán por ley.
 
-Artículo
+
+--Articulo--
 Respecto de las altas autoridades del Estado, la ley establecerá mayores
 exigencias y estándares de responsabilidad para el cumplimiento de los
 principios de probidad, transparencia y rendición de cuentas.
 
-Artículo
+
+--Articulo--
 Una comisión fijará las remuneraciones de las autoridades de elección
 popular, así como de quienes sirvan de confianza exclusiva de ellas. Las
 remuneraciones serán fijadas cada cuatro años, con al menos dieciocho
@@ -2104,7 +2308,8 @@ deberán garantizar una retribución adecuada a la responsabilidad del cargo.
 Una ley establecerá la integración, el funcionamiento y las atribuciones de
 esta comisión.
 
-Artículo
+
+--Articulo--
 1. La Administración pública tiene por objeto satisfacer necesidades de las
 personas y las comunidades. Se somete en su organización y funcionamiento
 a los principios de juridicidad, celeridad, objetividad, participación, control,
@@ -2124,13 +2329,15 @@ de sus funciones.
 Administración pública podrá reclamar ante las instancias administrativas y
 jurisdiccionales que establezcan esta Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. Es deber del Estado proveer de servicios públicos universales y de calidad,
 los cuales contarán con un financiamiento suficiente. 2. El Estado planificará y coordinará de manera intersectorial la provisión,
 prestación y cobertura de estos servicios, bajo los principios de generalidad,
 uniformidad, regularidad y pertinencia territorial.
 
-Artículo
+
+--Articulo--
 1. La Administración pública desarrolla sus funciones propias y habituales a
 través de funcionarias y funcionarios públicos.
 2. Los cargos que esta Constitución o la ley califiquen como de exclusiva
@@ -2144,7 +2351,8 @@ autoridades y de los funcionarios directivos del organismo del Estado al que
 postulan. Se exceptúan los nombramientos que se hagan en aplicación de las
 normas vigentes sobre ingreso o ascenso por méritos en cargos de carrera.
 
-Artículo
+
+--Articulo--
 1. El Estado definirá mecanismos de modernización de sus procesos y
 organización; adecuará su funcionamiento a las condiciones sociales,
 ambientales y culturales de cada localidad; utilizará los avances de las
@@ -2161,7 +2369,8 @@ ley. Contará con un consejo consultivo cuya integración considerará, entre
 otros, a usuarias y usuarios y funcionarias y funcionarios de los servicios
 públicos y las entidades territoriales.
 
-Artículo
+
+--Articulo--
 1. El Servicio Civil está integrado por las funcionarias y los funcionarios
 públicos que, bajo la dirección del Gobierno, los gobiernos regionales o las
 municipalidades, desarrollan las funciones de la Administración pública. Se
@@ -2177,7 +2386,8 @@ cuenta la pertinencia territorial y cultural del lugar en el que se presta el
 servicio. Además, establecerá un sistema de formación, capacitación y
 perfeccionamiento de las funcionarias y los funcionarios públicos.
 
-Artículo
+
+--Articulo--
 1. La Dirección del Servicio Civil es un órgano autónomo, con personalidad
 jurídica y patrimonio propio, encargado del fortalecimiento de la función
 pública y de los procedimientos de selección de cargos en la Administración
@@ -2192,7 +2402,8 @@ seleccionarse con su participación, y conducir los concursos destinados a
 proveer cargos de jefaturas superiores de servicios, a través de un Consejo
 de Alta Dirección Pública.
 
-Artículo
+
+--Articulo--
 1. Los cuerpos de bomberos de Chile conforman una institución perteneciente
 al sistema de protección civil, cuyo objeto es atender las emergencias
 causadas por la naturaleza o el ser humano, sin perjuicio de la competencia
@@ -2204,7 +2415,8 @@ por actos de servicio.
 3. Los cuerpos de bomberos de Chile se sujetarán en todas sus actuaciones a
 los principios de probidad, transparencia y rendición de cuentas.
 
-Artículo
+
+--Articulo--
 1. El Estado participa en la economía para cumplir sus fines constitucionales,
 de acuerdo con los principios y objetivos económicos de solidaridad, pluralismo económico, diversificación productiva y economía social y
 solidaria. En el ejercicio de sus potestades regula, fiscaliza, fomenta y
@@ -2225,7 +2437,8 @@ eficiente, justo y leal de los mercados, se entenderán como conductas
 contrarias al interés social. La ley establecerá las sanciones a los
 responsables.
 
-Artículo
+
+--Articulo--
 1. Las finanzas públicas se conducirán conforme a los principios de
 sostenibilidad y responsabilidad fiscal, los que guiarán el actuar del Estado
 en todas sus instituciones y en todos sus niveles.
@@ -2237,7 +2450,8 @@ el incumplimiento de las obligaciones en materia financiera, la ley deberá
 establecer mecanismos para un resarcimiento efectivo del patrimonio
 público.
 
-Artículo
+
+--Articulo--
 1. Es deber del Estado en el ámbito de sus competencias financieras, establecer
 una política permanente de desarrollo sostenible y armónico con la
 naturaleza.
@@ -2248,7 +2462,8 @@ bienes comunes naturales, bienes nacionales de uso público o bienes
 fiscales. Cuando dichas actividades estén territorialmente circunscritas, la
 ley debe distribuir recursos a la entidad territorial que corresponda.
 
-Artículo
+
+--Articulo--
 1. Todas las personas y entidades deberán contribuir al sostenimiento de los
 gastos públicos mediante el pago de los impuestos, las tasas y las
 contribuciones que autorice la ley. El sistema tributario se funda en los
@@ -2275,7 +2490,8 @@ naturales y jurídicas. También deberá estimarse anualmente en la Ley de
 Presupuestos y publicarse el costo de estos beneficios fiscales.
 6. No procederá plebiscito y referéndum en materia tributaria.
 
-Artículo
+
+--Articulo--
 El Estado fijará una política nacional portuaria, orientada por los principios
 de eficiencia en el uso del borde costero; responsabilidad ambiental, con
 especial énfasis en el cuidado de la naturaleza y bienes comunes naturales;
@@ -2286,7 +2502,8 @@ de alto riesgo, y colaboración entre recintos e infraestructura portuaria para
 asegurar el oportuno abastecimiento de las comunidades. CAPÍTULO VI
 ESTADO REGIONAL Y ORGANIZACIÓN TERRITORIAL
 
-Artículo
+
+--Articulo--
 1. El Estado se organiza territorialmente en entidades territoriales autónomas y
 territorios especiales.
 2. Son entidades territoriales autónomas las comunas autónomas, regiones
@@ -2305,7 +2522,8 @@ de sus habitantes.
 carácter único e indivisible del Estado de Chile ni permitirá la secesión
 territorial.
 
-Artículo
+
+--Articulo--
 1. Las entidades territoriales se coordinan y asocian en relaciones de
 solidaridad, cooperación, reciprocidad y apoyo mutuo, evitando la duplicidad
 de funciones, conforme a los mecanismos que establezca la ley.
@@ -2322,7 +2540,8 @@ de estas asociaciones, en concordancia con la normativa regional respectiva.
 5. Las asociaciones de entidades territoriales, en ningún caso, alterarán la
 organización territorial del Estado.
 
-Artículo
+
+--Articulo--
 1. La Constitución garantiza un tratamiento equitativo y un desarrollo armónico
 y solidario entre las diversas entidades territoriales, tanto urbanas como
 rurales. Propenderá al interés general e integración efectiva y no podrá
@@ -2333,14 +2552,16 @@ sin perjuicio del lugar que habiten en el territorio, estableciendo, de ser
 necesario, acciones afirmativas en favor de los grupos de especial
 protección.
 
-Artículo
+
+--Articulo--
 Las entidades territoriales y sus órganos deben actuar coordinadamente en
 cumplimiento de los principios de plurinacionalidad e interculturalidad;
 respetar y proteger las diversas formas de concebir y organizar el mundo, de
 relacionarse con la naturaleza; y garantizar los derechos de
 autodeterminación y de autonomía de los pueblos y naciones indígenas.
 
-Artículo
+
+--Articulo--
 Participación en las entidades territoriales en el Estado regional.
 1. Las entidades territoriales garantizan el derecho de sus habitantes a
 participar, individual o colectivamente en las decisiones públicas,
@@ -2351,13 +2572,15 @@ Constitución y las leyes.
 consentimiento libre, previo e informado en aquellas materias o asuntos que
 les afecten en sus derechos reconocidos en esta Constitución.
 
-Artículo
+
+--Articulo--
 Las entidades territoriales deberán promover, fomentar y garantizar los
 mecanismos de participación en las políticas públicas, planes y programas
 que se implementen en cada nivel territorial, en los casos que esta
 Constitución, la ley y los estatutos regionales señalen.
 
-Artículo
+
+--Articulo--
 1. Es deber de las entidades territoriales, en el ámbito de sus competencias,
 establecer una política permanente de equidad territorial, de desarrollo
 sostenible y armónico con la naturaleza. 2. Las entidades territoriales considerarán para su planificación social, política,
@@ -2366,13 +2589,15 @@ presupuestaria, inclusión e interculturalidad, criterios de integración
 socioespacial, enfoques de género, socioecosistémico, de derechos
 humanos y los demás que establezca esta Constitución.
 
-Artículo
+
+--Articulo--
 Entre entidades territoriales rige el principio de no tutela. Ninguna entidad
 territorial podrá ejercer tutela sobre otra, sin perjuicio de la aplicación de los
 principios de coordinación, de asociatividad, de solidaridad y de los
 conflictos de competencias que puedan ocasionarse.
 
-Artículo
+
+--Articulo--
 1. La Administración central podrá transferir a las entidades territoriales las
 competencias que determine la ley, sin perjuicio de aquellas señaladas en
 esta Constitución. Esta transferencia deberá considerar siempre el personal
@@ -2384,7 +2609,8 @@ establecerá los criterios y requisitos para la aplicación de estas diferencias
 así como los mecanismos de solidaridad y equidad que compensen las
 desigualdades entre los distintos niveles territoriales.
 
-Artículo
+
+--Articulo--
 1. Las competencias deberán radicarse priorizando la entidad local sobre la
 regional y esta última sobre la nacional, sin perjuicio de aquellas
 competencias que la propia Constitución o las leyes reserven a cada una de
@@ -2393,7 +2619,8 @@ las entidades territoriales.
 o regional podrá subrogar de manera transitoria a la entidad regional o local
 en el ejercicio de las competencias que no puedan ser asumidas por estas.
 
-Artículo
+
+--Articulo--
 1. El Estado, a través de la Administración central, los gobiernos regionales y
 locales, tienen el deber de ordenar y planificar el territorio. Para esto,
 utilizarán unidades de ordenación que consideren las cuencas hidrográficas.
@@ -2412,12 +2639,14 @@ materias que la ley determine. Serán ejecutadas de manera coordinada e
 integrada, enfocadas en el interés general y con procesos de participación
 popular en sus diferentes etapas.
 
-Artículo
+
+--Articulo--
 El Estado es garante de la conectividad del país en coordinación con los
 gobiernos regionales. Se fomentará la conectividad regional con especial
 atención a territorios aislados, rurales y de difícil acceso.
 
-Artículo
+
+--Articulo--
 Las comunas y regiones autónomas ubicadas en zonas fronterizas podrán
 vincularse con las entidades territoriales limítrofes del país vecino, a través
 de sus respectivas autoridades, para establecer programas de cooperación e
@@ -2425,13 +2654,15 @@ integración, dirigidos a fomentar el desarrollo comunitario, la prestación de
 servicios públicos y la conservación del medioambiente, según los términos
 que establezca esta Constitución y la ley.
 
-Artículo
+
+--Articulo--
 La elección de representantes por votación popular de las entidades
 territoriales se efectuará asegurando la representatividad territorial, la
 pertenencia territorial y el avecindamiento respectivo.
 Comuna autónoma
 
-Artículo
+
+--Articulo--
 1. La comuna autónoma es la entidad política y territorial base del Estado
 regional, dotada de personalidad jurídica de derecho público y patrimonio
 propio, que goza de autonomía para el cumplimiento de sus fines y el
@@ -2445,7 +2676,8 @@ recursos. El establecimiento de los tipos comunales deberá considerar, a lo
 menos, criterios demográficos, económicos, culturales, geográficos,
 socioambientales, urbanos y rurales.
 
-Artículo
+
+--Articulo--
 La comuna autónoma cuenta con las potestades y competencias de
 autogobierno para satisfacer las necesidades de la comunidad local. Son
 competencias esenciales de la comuna autónoma:
@@ -2493,7 +2725,8 @@ leyes deberán reconocer las diferencias existentes entre los distintos
 tipos de comunas y municipalidades, velando por la equidad, inclusión y
 cohesión territorial.
 
-Artículo
+
+--Articulo--
 1. A fin de garantizar el respeto, la protección y la realización progresiva de los
 derechos económicos y sociales en igualdad de condiciones, las comunas
 autónomas podrán encomendar temporalmente una o más competencias a
@@ -2504,15 +2737,21 @@ la región autónoma o la Administración central, cuando así lo exija el inter
 general, podrán subrogar de forma transitoria a la comuna autónoma en el
 ejercicio de las competencias que no puedan ser asumidas por esta.
 
-Artículo
+
+--Articulo--
 La alcaldesa o el alcalde, con aprobación del concejo municipal, podrá
 establecer delegaciones para el ejercicio de las facultades de la comuna
 autónoma en los casos y las formas que determine la ley.
 
-Artículo
+
+--Articulo--
 El gobierno de la comuna autónoma reside en la municipalidad, la que estará
 constituida por la alcaldesa o el alcalde y el concejo municipal, con la
-participación de la comunidad que habita en su territorio. Artículo 206
+participación de la comunidad que habita en su territorio.
+
+
+
+--Articulo--
 1. La alcaldesa o el alcalde es la máxima autoridad ejecutiva del gobierno
 comunal, integra y preside el concejo municipal y representa judicial y
 extrajudicialmente a la comuna.
@@ -2521,7 +2760,8 @@ consecutivamente solo una vez para el período siguiente. Para estos efectos
 se entenderá que ha ejercido su cargo durante un período cuando haya
 cumplido más de la mitad de su mandato.
 
-Artículo
+
+--Articulo--
 1. El concejo municipal es el órgano colegiado de representación popular y
 vecinal, dotado de funciones normativas, resolutivas y fiscalizadoras. Estará
 integrado por el número de personas en proporción a la población de la
@@ -2539,7 +2779,8 @@ respectivos, y otros que determine la ley.
 5. Será igualmente necesario el acuerdo del concejo para la aprobación del plan
 regulador comunal.
 
-Artículo
+
+--Articulo--
 Cada comuna tendrá un estatuto comunal elaborado y aprobado por el
 concejo municipal. Sin perjuicio de los mínimos generales dispuestos por la
 ley para todas las comunas, el estatuto comunal establece la organización
@@ -2547,19 +2788,16 @@ administrativa y el funcionamiento de los órganos comunales, los
 mecanismos de democracia vecinal y las normas de elaboración de
 ordenanzas comunales.
 
-Artículo
+
+--Articulo--
 1. La asamblea social comunal tiene la finalidad de promover la participación
 popular y ciudadana en los asuntos públicos. Será de carácter consultivo,
 incidente y representativo de las organizaciones de la comuna.
 2. Su integración, organización, funcionamiento y atribuciones
 establecidos por ley y complementados por el estatuto regional.
 
-71
 
-serán
-
-
-Artículo
+--Articulo--
 1. Las comunas establecerán territorios denominados unidades vecinales.
 Dentro de la unidad vecinal se constituirá una junta vecinal, representativa de
 las personas que residen en ella, la que contará con personalidad jurídica y
@@ -2571,7 +2809,8 @@ vecinales de carácter rural.
 vecinales, el procedimiento de constitución de las juntas vecinales y uniones
 comunales y sus atribuciones.
 
-Artículo
+
+--Articulo--
 1. El consejo de alcaldesas y alcaldes es un órgano de carácter consultivo y
 representativo de todas las comunas de la región autónoma. Será coordinado
 por quien determinen sus integrantes por mayoría en ejercicio.
@@ -2580,7 +2819,8 @@ promover una coordinación efectiva entre los distintos órganos con
 presencia regional y fomentar una cooperación eficaz entre los gobiernos
 comunales.
 
-Artículo
+
+--Articulo--
 1. La Administración central del Estado garantiza a la municipalidad el
 financiamiento y los recursos suficientes para el justo y equitativo desarrollo
 de cada comuna.
@@ -2589,14 +2829,19 @@ búsqueda de un desarrollo territorial armónico y equitativo, propendiendo a
 que todas las personas tengan acceso a igual nivel y calidad de servicios
 públicos municipales, sin distinción del lugar que habiten.
 
-Artículo
+
+--Articulo--
 1. Las comunas autónomas podrán asociarse entre sí, de manera permanente o
 temporal. Contarán con personalidad jurídica de derecho privado y se regirán
 por la normativa propia de dicho sector.
 2. Sin perjuicio de lo dispuesto en el inciso precedente, las asociaciones
 quedarán sujetas a la fiscalización de la Contraloría General de la República y
 deberán cumplir con la normativa de probidad administrativa y de
-transparencia en el ejercicio de la función que desarrollan. Artículo 214
+transparencia en el ejercicio de la función que desarrollan.
+
+
+
+--Articulo--
 Las comunas autónomas, a fin de cumplir con sus funciones y ejercer sus
 atribuciones, podrán crear empresas, o participar en ellas, ya sea
 individualmente o asociadas con otras entidades públicas o privadas, previa
@@ -2604,7 +2849,8 @@ autorización por ley general o especial. Las empresas públicas municipales
 tendrán personalidad jurídica y patrimonio propio y se regirán en
 conformidad con lo dispuesto en la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. La creación, división o fusión de comunas autónomas o la modificación de
 sus límites o denominación se determinará por ley, respetando en todo caso
 criterios objetivos, según lo dispuesto en la Constitución.
@@ -2614,7 +2860,8 @@ personal municipal y de los servicios, y los resguardos necesarios para
 cautelar el uso y la disposición de los bienes que se encuentren situados en
 los territorios de las nuevas comunas.
 
-Artículo
+
+--Articulo--
 1. Las municipalidades tienen el deber de promover y garantizar la participación
 ciudadana de la comunidad local en la gestión, en la construcción de políticas
 de desarrollo local y en la planificación del territorio, así como en los casos
@@ -2624,17 +2871,20 @@ digital, la formación y la educación cívica y todo aquello que sea necesario
 para concretar dicha participación, que será consultiva, incidente y, en su
 caso, vinculante de acuerdo con la legislación respectiva.
 
-Artículo
+
+--Articulo--
 Las municipalidades podrán establecer sus plantas de personal y los órganos
 o las unidades de su estructura interna, conforme a la ley, cautelando la
 carrera funcionaria y su debido financiamiento.
 Provincia
 
-Artículo
+
+--Articulo--
 La provincia es una división territorial establecida con fines administrativos
 y está compuesta por una agrupación de comunas autónomas.
 
-Artículo
+
+--Articulo--
 La región autónoma es la entidad política y territorial dotada de personalidad
 jurídica de derecho público y patrimonio propio que goza de autonomía para
 el desarrollo de los intereses regionales, la gestión de sus recursos
@@ -2642,7 +2892,8 @@ económicos y el ejercicio de las atribuciones legislativas, reglamentarias,
 ejecutivas y fiscalizadoras a través de sus órganos en el ámbito de sus
 competencias, con arreglo a lo dispuesto en la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 Son competencias de la región autónoma:
 a) La organización del Gobierno regional, en conformidad con la
 Constitución y su estatuto.
@@ -2691,18 +2942,21 @@ t) Participar en acciones de cooperación internacional, dentro de los
 marcos establecidos por los tratados y los convenios vigentes.
 u) Las demás competencias que determinen la Constitución y ley.
 
-Artículo
+
+--Articulo--
 1. Las competencias no expresamente conferidas a la región autónoma
 corresponden a la Administración central, sin perjuicio de las transferencias
 de competencias que regulan la Constitución y la ley.
 2. Las competencias de la región autónoma podrán ejercerse de manera
 concurrente y coordinada con otros órganos del Estado.
 
-Artículo
+
+--Articulo--
 La organización institucional de las regiones autónomas se compone del
 gobierno regional y de la asamblea regional.
 
-Artículo
+
+--Articulo--
 1. El gobierno regional es el órgano ejecutivo de la región autónoma.
 2. Una gobernadora o un gobernador regional dirige el gobierno regional, ejerce
 la función de gobierno y administración y representa judicial y
@@ -2721,7 +2975,8 @@ cuatro años, pudiendo reelegirse consecutivamente solo una vez para el
 período siguiente. En este caso, se considerará que se ha ejercido el cargo
 durante un período cuando se haya cumplido más de la mitad del mandato.
 
-Artículo
+
+--Articulo--
 Son atribuciones esenciales de los gobiernos regionales las siguientes:
 a) Ejercer la potestad reglamentaria en todas aquellas materias que se
 encuentren dentro del ámbito de sus competencias, en conformidad con
@@ -2756,13 +3011,6 @@ l) Elaborar y presentar ante la asamblea regional el proyecto de presupuesto
 regional, conforme a esta Constitución y al estatuto regional.
 m) Administrar y ejecutar la planificación
 destinación y uso del presupuesto regional.
-
-presupuestaria
-
-sobre
-
-la
-
 n) Ejercer competencias fiscales propias conforme a la Constitución y la ley.
 ñ) Celebrar y ejecutar convenios con los gobiernos de otras regiones
 autónomas para efectos de implementar programas y políticas públicas
@@ -2773,7 +3021,8 @@ efecto y conforme a los procedimientos regulados en la ley.
 p) Las demás atribuciones que señalen la Constitución, la ley y el estatuto
 regional.
 
-Artículo
+
+--Articulo--
 1. La asamblea regional es el órgano colegiado de representación regional que
 está dotado de potestades normativas, resolutivas y fiscalizadoras.
 2. Una ley determinará los requisitos generales para acceder al cargo de
@@ -2784,7 +3033,8 @@ consecutivamente solo una vez para el período inmediatamente siguiente. En
 este caso, se considerará que han ejercido el cargo durante un período
 cuando hayan cumplido más de la mitad de su mandato.
 
-Artículo
+
+--Articulo--
 Son atribuciones de la asamblea regional:
 a) Dictar su reglamento interno de funcionamiento.
 b) Dictar las normas regionales que hagan aplicables las leyes de acuerdo
@@ -2817,14 +3067,19 @@ n) Pronunciarse sobre la convocatoria a consultas o plebiscitos regionales.
 ñ) Aprobar, a propuesta de la gobernadora o del gobernador regional y previa
 ratificación de la Cámara de las Regiones, la creación de empresas
 públicas regionales o la participación en empresas regionales.
-o) Las demás atribuciones que determinen la Constitución y la ley. Artículo 227
+o) Las demás atribuciones que determinen la Constitución y la ley.
+
+
+
+--Articulo--
 1. La organización administrativa y funcionamiento interno de cada región
 autónoma serán establecidas en un estatuto.
 2. El estatuto regional debe respetar los derechos fundamentales y los
 principios del Estado social y democrático de derecho reconocidos en la
 Constitución.
 
-Artículo
+
+--Articulo--
 1. El proyecto de estatuto regional será elaborado y propuesto por quien dirija
 el gobierno regional a la asamblea regional respectiva, para su deliberación y
 acuerdo, el cual será aprobado por la mayoría en ejercicio.
@@ -2832,7 +3087,8 @@ acuerdo, el cual será aprobado por la mayoría en ejercicio.
 participación popular, democrática y vinculante de los habitantes de la región
 autónoma respectiva.
 
-Artículo
+
+--Articulo--
 1. El consejo social regional es el encargado de promover la participación
 popular en los asuntos públicos regionales de carácter participativo y
 consultivo. Su integración y competencias serán determinadas por ley.
@@ -2841,7 +3097,8 @@ regionales deberán rendir cuenta ante el consejo social regional, a lo menos
 una vez al año, de la ejecución presupuestaria y del desarrollo de proyectos
 en los términos prescritos por el estatuto regional.
 
-Artículo
+
+--Articulo--
 1. El Consejo de Gobernaciones, presidido por el Presidente de la República y
 conformado por las gobernadoras y los gobernadores de cada región,
 coordinará las relaciones entre la Administración central y las entidades
@@ -2852,9 +3109,6 @@ a) Coordinar, complementar y colaborar en la ejecución de políticas públicas
 en las regiones.
 b) Conducir la coordinación económica y presupuestaria entre
 Administración central y las regiones autónomas.
-
-la
-
 c) Debatir sobre las actuaciones conjuntas de carácter estratégico, que
 afecten a los ámbitos competenciales estatal y regional, así como velar
 por el respeto de las autonomías de las entidades territoriales.
@@ -2866,20 +3120,23 @@ f) Acordar la creación de comisiones o grupos de trabajo para el estudio de
 asuntos de interés común.
 g) Las demás que establezcan la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. La región autónoma podrá establecer sus plantas de personal y los órganos o
 las unidades de su estructura interna conforme a la ley cautelando la carrera
 funcionaria y su debido financiamiento.
 2. Estas facultades serán ejecutadas por quien presida la gobernación, previo
 acuerdo de la asamblea regional.
 
-Artículo
+
+--Articulo--
 La ley determinará los servicios públicos, las instituciones o empresas del
 Estado que, en virtud de sus fines fiscalizadores o por razones de eficiencia
 y de interés general, mantendrán una organización centralizada o
 desconcentrada en todo el territorio de la república.
 
-Artículo
+
+--Articulo--
 1. Las regiones autónomas cuentan con las competencias para coordinarse con
 quienes representen a los ministerios y servicios públicos con presencia en
 la región autónoma.
@@ -2895,7 +3152,8 @@ transitorio cuando las entidades territoriales no puedan cumplir
 eficientemente sus mandatos.
 5. La ley regulará el procedimiento y el ejercicio de esas facultades. Autonomía territorial indígena
 
-Artículo
+
+--Articulo--
 1. La autonomía territorial indígena es la entidad territorial dotada de
 personalidad jurídica de derecho público y patrimonio propio, donde los
 pueblos y naciones indígenas ejercen derechos de autonomía en
@@ -2908,7 +3166,8 @@ autonomías territoriales indígenas. Dicho procedimiento deberá iniciarse a
 requerimiento de los pueblos y naciones indígenas interesados, a través de
 sus autoridades representativas.
 
-Artículo
+
+--Articulo--
 La ley deberá establecer las competencias exclusivas de las autonomías
 territoriales indígenas y las compartidas con las demás entidades
 territoriales. Las autonomías territoriales indígenas deberán tener las
@@ -2916,7 +3175,8 @@ competencias y el financiamiento necesarios para el adecuado ejercicio del
 derecho de libre determinación de los pueblos y naciones indígenas.
 Territorios especiales
 
-Artículo
+
+--Articulo--
 1. Son territorios especiales Rapa Nui y el archipiélago Juan Fernández, los que
 se rigen por sus respectivos estatutos.
 2. En virtud de las particularidades geográficas, climáticas, ambientales,
@@ -2926,7 +3186,8 @@ parte de esta, la ley podrá crear territorios especiales.
 administrativos diferenciados, así como su duración, teniendo en
 consideración las características propias de estas entidades.
 
-Artículo
+
+--Articulo--
 1. La ley creará y regulará la administración de un Fondo para Territorios
 Especiales, cuyos recursos serán destinados exclusivamente a los fines para
 los cuales fueron creados.
@@ -2934,7 +3195,8 @@ los cuales fueron creados.
 deberán destinar recursos propios al financiamiento de los territorios
 especiales respectivos.
 
-Artículo
+
+--Articulo--
 En el territorio especial de Rapa Nui, el Estado garantiza el derecho a la libre
 determinación y autonomía del pueblo nación polinésico Rapanui,
 asegurando los medios para financiar y promover su desarrollo, protección y
@@ -2944,14 +3206,16 @@ de los derechos sobre el territorio con excepción de los derechos sobre
 tierras individuales de sus miembros. Un estatuto de autonomía regulará el
 territorio Rapa Nui.
 
-Artículo
+
+--Articulo--
 El archipiélago Juan Fernández es un territorio especial conformado por las
 islas Robinson Crusoe, Alejandro Selkirk, Santa Clara, San Félix y San
 Ambrosio, y el territorio marítimo adyacente a ellas. El gobierno y la
 administración de este territorio se regirán por los estatutos especiales que
 establezca la ley.
 
-Artículo
+
+--Articulo--
 El territorio chileno antártico, incluyendo sus espacios marítimos, es un
 territorio especial y zona fronteriza en el cual Chile ejerce respectivamente
 soberanía y derechos soberanos, con pleno respeto a los tratados ratificados
@@ -2960,26 +3224,33 @@ mediante una política fundada en el conocimiento y orientada a la
 investigación científica, la colaboración internacional y la paz.
 Ruralidad
 
-Artículo
+
+--Articulo--
 1. El Estado promueve el desarrollo integral de los territorios rurales y reconoce
 la ruralidad como una expresión territorial donde las formas de vida y
 producción se desarrollan en torno a la relación directa de las personas y
 comunidades con la tierra, el agua y el mar.
 2. Asimismo, facilitará la participación de las comunidades rurales a nivel local
 y regional en el diseño y la implementación de programas y políticas públicas
-que les afectan o conciernen. Artículo 242
+que les afectan o conciernen.
+
+
+
+--Articulo--
 El Estado adoptará las medidas necesarias para prevenir la violencia y
 superar las desigualdades que enfrentan mujeres y niñas rurales,
 promoviendo la implementación de políticas públicas que garanticen el goce
 igualitario de los derechos que la Constitución consagra.
 
-Artículo
+
+--Articulo--
 El Estado fomenta los mercados locales, las ferias libres y los circuitos cortos
 de comercialización e intercambio de bienes y productos relacionados a la
 ruralidad.
 Autonomía fiscal
 
-Artículo
+
+--Articulo--
 1. La actividad financiera de las entidades territoriales se realizará
 coordinadamente entre ellas, el Estado y las autoridades competentes, las
 cuales deberán cooperar y colaborar entre sí y evitar la duplicidad e
@@ -2988,7 +3259,8 @@ interés general.
 2. Lo anterior se aplicará también respecto de todas las competencias o
 potestades que se atribuyan a las entidades territoriales.
 
-Artículo
+
+--Articulo--
 1. Las entidades territoriales autónomas cuentan con autonomía financiera en
 sus ingresos y gastos para el cumplimiento de sus competencias, la cual
 deberá ajustarse a los principios de suficiencia, coordinación, equilibrio
@@ -3001,7 +3273,8 @@ cada nivel de gobierno.
 3. El deber y la facultad de velar por la estabilidad macroeconómica y fiscal
 serán centralizados.
 
-Artículo
+
+--Articulo--
 1. La autonomía financiera de las entidades territoriales implica la facultad de
 ordenar y gestionar sus finanzas públicas en el marco de la Constitución y las
 leyes, en beneficio de sus habitantes, bajo los criterios de responsabilidad y
@@ -3013,7 +3286,8 @@ arbitraria entre entidades territoriales, igualdad en las prestaciones sociales,
 desarrollo armónico de los territorios, unidad, objetividad, razonabilidad,
 oportunidad y transparencia.
 
-Artículo
+
+--Articulo--
 Las entidades territoriales tendrán las siguientes fuentes de ingresos:
 a) Los recursos asignados por la Ley de Presupuestos.
 b) Los impuestos en favor de la entidad territorial.
@@ -3025,7 +3299,8 @@ g) La administración y aprovechamiento de su patrimonio.
 h) Las donaciones, las herencias y los legados que reciban conforme a la ley.
 i) Otras que determinen la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. Los ingresos fiscales generados por impuestos son distribuidos entre la
 Administración central y las entidades territoriales en la forma establecida
 en la Ley de Presupuestos.
@@ -3039,7 +3314,8 @@ territoriales.
 una fórmula de distribución de ingresos fiscales, la cual considerará los
 criterios de distribución establecidos por la ley.
 
-Artículo
+
+--Articulo--
 1. La Administración y las entidades territoriales deben contribuir a la
 corrección de las desigualdades que existan entre ellas.
 2. La ley establecerá fondos de compensación para las entidades territoriales
@@ -3057,7 +3333,8 @@ promedio ponderado de ingresos fiscales transferirán recursos a aquellas
 equivalentes con ingresos bajo el promedio. El órgano competente sugerirá
 una fórmula al legislador para realizar tales transferencias.
 
-Artículo
+
+--Articulo--
 Los gobiernos regionales y locales podrán emitir deuda en conformidad con
 lo que disponga la ley, general o especial, la que establecerá al menos las
 siguientes regulaciones:
@@ -3074,12 +3351,14 @@ e) Restricciones en períodos electorales.
 f) Estos recursos no podrán ser destinados a remuneraciones ni a gasto
 corriente.
 
-Artículo
+
+--Articulo--
 El Poder Legislativo se compone del Congreso de Diputadas y Diputados y de
 la Cámara de las Regiones.
 Congreso de Diputadas y Diputados
 
-Artículo
+
+--Articulo--
 1. El Congreso de Diputadas y Diputados es un órgano deliberativo, paritario y
 plurinacional que representa al pueblo. Concurre a la formación de las leyes
 y ejerce las demás facultades encomendadas por la Constitución.
@@ -3095,7 +3374,8 @@ con la población total del país. Se deben adicionar al número total de
 integrantes del Congreso. La ley regulará los requisitos, los procedimientos y
 la distribución de los escaños reservados.
 
-Artículo
+
+--Articulo--
 Son atribuciones exclusivas del Congreso de Diputadas y Diputados:
 a) Fiscalizar los actos del Gobierno. Para ejercer esta atribución puede:
 1) Adoptar acuerdos o sugerir observaciones, los que se transmitirán por
@@ -3175,7 +3455,8 @@ la política militar.
 f) Las otras que establezca la Constitución.
 Cámara de las Regiones
 
-Artículo
+
+--Articulo--
 1. La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional
 de representación regional encargado de concurrir a la formación de las leyes
 de acuerdo regional y de ejercer las demás facultades encomendadas por
@@ -3194,7 +3475,8 @@ convocadas y convocados al efecto.
 5. La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni la
 institucionalidad que de él dependan.
 
-Artículo
+
+--Articulo--
 1. Es atribución exclusiva de la Cámara de las Regiones conocer de las
 acusaciones que entable el Congreso de Diputadas y Diputados.
 2. La Cámara de las Regiones resolverá como jurado y se limitará a declarar si
@@ -3214,7 +3496,8 @@ señalada al delito, si lo hubiera, como para hacer efectiva la responsabilidad
 civil por los daños y perjuicios causados al Estado o a particulares.
 Disposiciones comunes al Poder Legislativo
 
-Artículo
+
+--Articulo--
 1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones no podrán
 entrar en sesión ni adoptar acuerdos sin la concurrencia de la tercera parte
 de sus miembros en ejercicio. Toman sus decisiones por la mayoría de sus
@@ -3224,7 +3507,8 @@ diferente.
 la que podrá ser complementada con los reglamentos de funcionamiento que
 estos órganos dicten.
 
-Artículo
+
+--Articulo--
 1. Para que una persona sea elegida diputada, diputado o representante regional
 debe ser ciudadana con derecho a sufragio, haber cumplido dieciocho años
 de edad al día de la elección y tener residencia en el territorio
@@ -3234,7 +3518,8 @@ regionales, contados hacia atrás desde el día de la elección.
 2. Se entenderá que tienen su residencia en el territorio correspondiente
 mientras ejerzan su cargo.
 
-Artículo
+
+--Articulo--
 1. No pueden postular al Congreso de Diputadas y Diputados ni a la Cámara de
 las Regiones:
 a) Quien ejerza la Presidencia de la República o quien le subrogue en el
@@ -3265,7 +3550,8 @@ momento de inscribir su candidatura, y de las indicadas en las letras k), l) y
 n), respecto de las cuales el plazo de la inhabilidad será de los dos años
 inmediatamente anteriores a la elección.
 
-Artículo
+
+--Articulo--
 1. Los cargos de diputada o diputado y de representante regional son
 incompatibles entre sí, con otros cargos de representación y con todo
 empleo, función, comisión o cargo de carácter público o privado.
@@ -3273,7 +3559,8 @@ empleo, función, comisión o cargo de carácter público o privado.
 Elecciones, cesarán en el otro cargo, empleo, función o comisión
 incompatible que desempeñen.
 
-Artículo
+
+--Articulo--
 1. Diputadas, diputados y representantes regionales son inviolables por las
 opiniones que manifiesten y los votos que emitan en el desempeño de sus
 cargos.
@@ -3290,7 +3577,8 @@ dispuesto en el inciso anterior.
 formación de causa, se les suspenderá de su cargo y se sujetarán al juez
 competente.
 
-Artículo
+
+--Articulo--
 1. Cesará en el cargo la diputada, el diputado o representante regional:
 a) Que se ausente del país por más de treinta días sin permiso de la
 corporación respectiva o, en receso de esta, de su Mesa Directiva.
@@ -3324,7 +3612,8 @@ para ser elegido en el cargo respectivo y le alcanzarán las mismas
 inhabilidades e incompatibilidades. Se asegurará a todo evento la
 composición paritaria del órgano.
 
-Artículo
+
+--Articulo--
 Diputadas, diputados y representantes regionales se renuevan en su totalidad
 cada cuatro años y pueden ser reelegidos sucesivamente en el cargo hasta
 por un período. Para estos efectos se entenderá que han ejercido su cargo
@@ -3332,7 +3621,8 @@ durante un período cuando han cumplido más de la mitad de su mandato.
 Sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de
 las Regiones
 
-Artículo
+
+--Articulo--
 El Congreso de Diputadas y Diputados y la Cámara de las Regiones se
 reunirán en sesión conjunta para:
 a) Inaugurar el año legislativo. b) Tomar el juramento o promesa de la Presidenta o el Presidente electo al
@@ -3348,7 +3638,8 @@ candidatas y los candidatos para el cargo correspondiente.
 g) Los demás casos establecidos en esta Constitución.
 La ley
 
-Artículo
+
+--Articulo--
 Solo en virtud de una ley se puede:
 a) Crear, modificar y suprimir tributos de cualquier clase o naturaleza y los
 beneficios tributarios aplicables a estos, determinar su progresión,
@@ -3397,7 +3688,8 @@ concurrencia presidencial necesaria.
 p) Regular las demás materias que la Constitución exija que sean
 establecidas por una ley.
 
-Artículo
+
+--Articulo--
 1. La Presidenta o el Presidente de la República podrá solicitar autorización al
 Congreso de Diputadas y Diputados para dictar decretos con fuerza de ley
 durante un plazo no superior a un año.
@@ -3422,7 +3714,8 @@ vigencia y efectos, a las mismas normas que rigen para la ley.
 7. La ley delegatoria de potestades que correspondan a leyes de acuerdo
 regional es ley de acuerdo regional.
 
-Artículo
+
+--Articulo--
 Son leyes de concurrencia presidencial necesaria:
 a) Las que irroguen directamente gastos al Estado.
 b) Las leyes relacionadas con la administración presupuestaria del Estado,
@@ -3441,7 +3734,8 @@ f) Regular las capacidades de la defensa nacional, permitir la entrada de
 tropas extranjeras al territorio de la república y autorizar la salida de
 tropas nacionales fuera de él.
 
-Artículo
+
+--Articulo--
 1. Las leyes de concurrencia presidencial necesaria pueden tener su origen en
 un mensaje o en una moción.
 2. La moción deberá ser patrocinada por no menos de un cuarto y no más de
@@ -3461,7 +3755,8 @@ podrá insistir en su tramitación.
 5. Quien ejerza la Presidencia de la República siempre podrá retirar su
 patrocinio. En dicho caso, la tramitación del proyecto no podrá continuar.
 
-Artículo
+
+--Articulo--
 1. Solo son leyes de acuerdo regional:
 a) Las que reformen la Constitución.
 b) Las que regulen la organización, las atribuciones y el funcionamiento de
@@ -3502,7 +3797,8 @@ revisión aprobada por la Cámara de las Regiones, esta podrá recurrir a la
 Corte Constitucional por acuerdo de mayoría.
 Procedimiento legislativo
 
-Artículo
+
+--Articulo--
 1. Las leyes pueden iniciarse por mensaje de la Presidenta o del Presidente de
 la República o por moción de no menos del diez por ciento ni más del quince
 por ciento de diputadas y diputados o representantes regionales.
@@ -3519,7 +3815,8 @@ Cámara de las Regiones, si esta interviene conforme con lo establecido en
 esta Constitución. En ningún caso se admitirán las que no tengan relación
 directa con las ideas matrices o fundamentales del proyecto.
 
-Artículo
+
+--Articulo--
 1. Las leyes deberán ser aprobadas, modificadas o derogadas por la mayoría de
 los miembros presentes en el Congreso de Diputadas y Diputados al
 momento de su votación.
@@ -3530,7 +3827,8 @@ continuar con su tramitación.
 Diputados, será despachado a la Presidenta o al Presidente de la República
 para efectos de su promulgación o devolución.
 
-Artículo
+
+--Articulo--
 Las leyes referidas a la organización, el funcionamiento y los procedimientos
 del Poder Legislativo y de los Sistemas de Justicia; a los procesos electorales
 y plebiscitarios; a la regulación de los estados de excepción constitucional; a
@@ -3541,7 +3839,8 @@ Central deberán ser aprobadas por el voto favorable de la mayoría de los
 integrantes en ejercicio del Congreso de Diputadas y Diputados y de la
 Cámara de las Regiones.
 
-Artículo
+
+--Articulo--
 1. Recibido por la Cámara de las Regiones un proyecto de ley de acuerdo
 regional aprobado por el Congreso de Diputadas y Diputados, la Cámara de
 las Regiones se pronunciará, aprobándolo o rechazándolo. Si lo aprueba, el
@@ -3559,7 +3858,11 @@ designar a los integrantes de la comisión y establecerá el plazo en que deber�
 informar. De no evacuar su informe dentro de plazo, se entenderá que la
 comisión mixta mantiene las observaciones originalmente formuladas por la
 Cámara y rechazadas por el Congreso y se aplicará lo dispuesto en el inciso
-anterior. Artículo 273
+anterior.
+
+
+
+--Articulo--
 1. En la sesión siguiente a su despacho por el Congreso de Diputadas y
 Diputados y con el voto favorable de la mayoría, la Cámara de las Regiones
 podrá requerir conocer de un proyecto de ley que no sea de acuerdo regional.
@@ -3569,7 +3872,8 @@ insistir en el proyecto original con el voto favorable de la mayoría. Si dentro
 del plazo señalado la Cámara no evacúa su informe, el proyecto quedará en
 condiciones de ser despachado por el Congreso.
 
-Artículo
+
+--Articulo--
 1. Si la Presidenta o el Presidente de la República aprueba el proyecto
 despachado por el Congreso de Diputadas y Diputados, dispondrá su
 promulgación como ley. En caso contrario, lo devolverá dentro de treinta días
@@ -3593,7 +3897,8 @@ promulgatorio.
 6. El proyecto que sea desechado en general por el Congreso de Diputadas y
 Diputados no podrá renovarse sino después de un año.
 
-Artículo
+
+--Articulo--
 1. La ley que regule el funcionamiento del Congreso de Diputadas y Diputados
 deberá establecer los mecanismos para determinar el orden en que se
 conocerán los proyectos de ley, debiendo distinguir entre urgencia simple,
@@ -3604,7 +3909,8 @@ La ley especificará los casos y condiciones de la urgencia popular.
 3. Solo quien ejerza la Presidencia de la República contará con la facultad de
 determinar la discusión inmediata de un proyecto de ley.
 
-Artículo
+
+--Articulo--
 1. La Cámara de las Regiones conocerá de las propuestas de estatutos
 regionales aprobados por una asamblea regional, de creación de empresas
 regionales efectuadas por una o más asambleas regionales de conformidad
@@ -3628,7 +3934,8 @@ formalidades que se estimen convenientes.
 dictadas de conformidad con este artículo, debiendo rechazarlas cuando
 ellas excedan o contravengan la autorización referida.
 
-Artículo
+
+--Articulo--
 1. El proyecto de Ley de Presupuestos deberá ser presentado por quien ejerza
 la Presidencia de la República a lo menos con tres meses de anterioridad a la
 fecha en que debe empezar a regir.
@@ -3661,7 +3968,8 @@ proporcionalmente todos los gastos, cualquiera que sea su naturaleza.
 presupuestos regionales y comunales, se deberá garantizar la participación
 popular.
 
-Artículo
+
+--Articulo--
 1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones contarán
 con una Unidad Técnica dependiente administrativamente del Congreso.
 2. Su Secretaría Legislativa estará encargada de asesorar en los aspectos
@@ -3673,7 +3981,8 @@ presupuestario y fiscal de los proyectos de ley y de asesorar a diputadas,
 diputados y representantes regionales durante la tramitación de la Ley de
 Presupuestos.
 
-Artículo
+
+--Articulo--
 1. El gobierno y la administración del Estado corresponden a la Presidenta o al
 Presidente de la República, quien ejerce la jefatura de Estado y la jefatura de
 Gobierno.
@@ -3681,7 +3990,8 @@ Gobierno.
 político de la república ante el Congreso de Diputadas y Diputados y la
 Cámara de las Regiones, en sesión conjunta.
 
-Artículo
+
+--Articulo--
 1. Para que una persona sea elegida Presidenta o Presidente de la República se
 requiere tener nacionalidad chilena y haber cumplido treinta años de edad al
 día de la elección.
@@ -3693,7 +4003,8 @@ circunstancias que la justifiquen fundadamente. Tales circunstancias
 deberán ser calificadas por el Tribunal Calificador de Elecciones.
 3. Al inscribir la candidatura deberá presentar un programa, conforme a la ley.
 
-Artículo
+
+--Articulo--
 1. La Presidenta o el Presidente se elegirá mediante sufragio universal y directo,
 por la mayoría absoluta de los votos válidamente emitidos. La elección se
 efectuará el tercer domingo de noviembre del año anterior a aquel en que
@@ -3712,7 +4023,8 @@ quien ejerza la Presidencia de la República convocará a una nueva elección
 dentro del plazo de diez días, contado desde la fecha del deceso. La elección se celebrará noventa días después de la convocatoria si ese día corresponde
 a un domingo. En caso contrario, se realizará el domingo siguiente.
 
-Artículo
+
+--Articulo--
 1. El proceso de calificación de la elección de la Presidenta o del Presidente
 deberá quedar concluido dentro de los quince días siguientes a la primera
 votación y dentro de los treinta siguientes a la segunda.
@@ -3729,7 +4041,8 @@ juramento de desempeñar fielmente su cargo, conservar la independencia de
 la república, guardar y hacer guardar la Constitución y las leyes, y de
 inmediato asumirá sus funciones.
 
-Artículo
+
+--Articulo--
 1. Si la Presidenta electa o el Presidente electo se encuentra impedido para
 tomar posesión del cargo, asumirá, provisoriamente y con el título de
 Vicepresidenta o Vicepresidente de la República, quien presida el Congreso
@@ -3743,7 +4056,8 @@ un domingo, o el domingo inmediatamente siguiente, conforme a las reglas
 generales. Quien así se elija asumirá sus funciones en la oportunidad que
 señale la ley y durará en ellas el resto del período ya iniciado.
 
-Artículo
+
+--Articulo--
 1. La Presidenta o el Presidente durará cuatro años en el ejercicio de sus
 funciones, tras los cuales se podrá reelegir, de forma inmediata o posterior,
 solo una vez.
@@ -3753,14 +4067,16 @@ realizar actividades públicas que conlleven propaganda a su campaña para la
 reelección. La Contraloría General de la República dictará un instructivo que
 regule las situaciones descritas en este artículo.
 
-Artículo
+
+--Articulo--
 Cuando por enfermedad, ausencia del territorio de la república u otro grave
 motivo, la Presidenta o el Presidente de la República no pudiera ejercer su
 cargo, le subrogará, con el título de Vicepresidenta o Vicepresidente de la
 República, la ministra o el ministro de Estado que corresponda, según el
 orden de precedencia legal.
 
-Artículo
+
+--Articulo--
 1. Son impedimentos definitivos para el ejercicio del cargo de Presidenta o
 Presidente de la República y causan su vacancia: la muerte; enfermedad grave,
 debidamente acreditada, que haga imposible el desempeño del cargo por el
@@ -3788,7 +4104,11 @@ y hasta completar el período que restaba a quien se reemplaza.
 5. La Vicepresidenta o el Vicepresidente que subrogue y la Presidenta o el
 Presidente que se nombre conforme a lo dispuesto en el inciso anterior
 tendrán todas las atribuciones que esta Constitución confiere a la Presidenta
-o al Presidente de la República. Artículo 287
+o al Presidente de la República.
+
+
+
+--Articulo--
 Son atribuciones de quien ejerce la Presidencia de la República:
 a) Cumplir y hacer cumplir la Constitución, las leyes y los tratados
 internacionales, de acuerdo con sus competencias y atribuciones.
@@ -3847,7 +4167,8 @@ Diputadas y Diputados o a la Cámara de las Regiones. En tal caso, la sesión
 deberá celebrarse a la brevedad posible.
 r) Las demás establecidas en la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. Quien ejerza la Presidencia de la República tiene la potestad de dictar
 aquellos reglamentos, decretos e instrucciones que considere necesarios
 para la ejecución de las leyes.
@@ -3859,7 +4180,8 @@ contradicción.
 sobre los reglamentos, decretos e instrucciones que se hayan dictado en
 virtud del inciso anterior.
 
-Artículo
+
+--Articulo--
 1. Corresponde a la Presidenta o al Presidente de la República la atribución de
 negociar, concluir, firmar y ratificar tratados internacionales.
 2. En aquellos casos en que los tratados internacionales se refieran a materias
@@ -3906,7 +4228,8 @@ tratados internacionales de derechos humanos de acuerdo con los requisitos
 que establezca la ley, la que definirá el plazo dentro del cual la o el Presidente
 deberá dar respuesta a la referida solicitud.
 
-Artículo
+
+--Articulo--
 1. Las ministras y los ministros de Estado son colaboradores directos e
 inmediatos de la Presidenta o del Presidente de la República en el gobierno y
 administración del Estado.
@@ -3920,7 +4243,8 @@ ministras o ministros la coordinación de la labor que corresponde a las
 secretarias y los secretarios de Estado y las relaciones del Gobierno con el
 Congreso de Diputadas y Diputados y la Cámara de las Regiones.
 
-Artículo
+
+--Articulo--
 1. Para ser nombrado ministro o ministra de Estado se requiere ser ciudadano
 o ciudadana con derecho a sufragio y cumplir con los requisitos generales
 para el ingreso a la Administración pública.
@@ -3928,7 +4252,8 @@ para el ingreso a la Administración pública.
 o cuando por otra causa se produzca la vacancia del cargo, de acuerdo con lo
 que establece la ley.
 
-Artículo
+
+--Articulo--
 1. Los reglamentos y decretos de la Presidenta o del Presidente de la República
 deberán firmarse por la ministra o el ministro de Estado correspondiente y
 no serán obedecidos sin este requisito.
@@ -3936,7 +4261,8 @@ no serán obedecidos sin este requisito.
 ministra o del ministro de Estado respectivo, por orden de la Presidenta o del
 Presidente de la República, conforme lo establezca la ley.
 
-Artículo
+
+--Articulo--
 1. Las ministras y los ministros podrán asistir a las sesiones del Congreso de
 Diputadas y Diputados y de la Cámara de las Regiones y tomar parte en sus
 debates, con preferencia para hacer uso de la palabra.
@@ -3944,12 +4270,14 @@ debates, con preferencia para hacer uso de la palabra.
 sesiones especiales que convoque el Congreso o la Cámara para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las
 correspondientes secretarías de Estado, acuerden tratar.
 
-Artículo
+
+--Articulo--
 La designación de quienes representen a los ministerios y servicios públicos
 con presencia en la región autónoma será decisión de la Presidencia de la
 República.
 
-Artículo
+
+--Articulo--
 1. El Estado tiene el monopolio indelegable del uso legítimo de la fuerza, la que
 ejerce a través de las instituciones competentes, conforme a esta
 Constitución, las leyes y con respeto a los derechos humanos.
@@ -3961,7 +4289,8 @@ otros elementos similares, salvo en los casos que señale la ley, la que fijará
 los requisitos, las autorizaciones y los controles del uso, del porte y de la
 tenencia de armas.
 
-Artículo
+
+--Articulo--
 1. A la Presidenta o al Presidente de la República le corresponde la conducción
 de la seguridad pública a través del ministerio correspondiente.
 2. La disposición, la organización y los criterios de distribución de las policías
@@ -3971,7 +4300,8 @@ dicha política, la que deberá comprender la perspectiva de género y de
 interculturalidad y el pleno respeto al derecho internacional y los derechos
 fundamentales.
 
-Artículo
+
+--Articulo--
 1. Las policías dependen del ministerio a cargo de la seguridad pública y son
 instituciones policiales, no militares, de carácter centralizado, con
 competencia en todo el territorio de Chile, y están destinadas para garantizar
@@ -3994,7 +4324,8 @@ ejercer el derecho a huelga, ni postularse a cargos de elección popular.
 modo que establezca la ley. La educación y formación policial se funda en el
 respeto a los derechos humanos.
 
-Artículo
+
+--Articulo--
 1. A la Presidenta o al Presidente de la República le corresponde la conducción
 de la defensa nacional y desempeña la jefatura suprema de las Fuerzas
 Armadas. Ejercerá el mando a través del ministerio a cargo de la defensa
@@ -4007,7 +4338,8 @@ principios de cooperación internacional, de igualdad de género y de
 interculturalidad y el pleno respeto al derecho internacional y los derechos
 fundamentales.
 
-Artículo
+
+--Articulo--
 1. Las Fuerzas Armadas están integradas única y exclusivamente por el Ejército,
 la Armada y la Fuerza Aérea. Dependen del ministerio a cargo de la defensa
 nacional y son instituciones destinadas al resguardo de la soberanía,
@@ -4030,7 +4362,8 @@ funda en el respeto a los derechos humanos.
 6. La ley regulará la organización de la defensa, su institucionalidad, su
 estructura y empleo conjunto, sus jefaturas, su mando y la carrera militar.
 
-Artículo
+
+--Articulo--
 1. Solo se podrá suspender o limitar el ejercicio de los derechos y las garantías
 que la Constitución asegura a todas las personas bajo las siguientes
 situaciones de excepción: conflicto armado internacional, conflicto armado
@@ -4043,7 +4376,8 @@ respecto de su duración, extensión y medios empleados, a lo que sea
 estrictamente necesario para la más pronta restauración de la normalidad
 constitucional.
 
-Artículo
+
+--Articulo--
 1. El estado de asamblea, en caso de conflicto armado internacional, y el estado
 de sitio, en caso de conflicto armado interno, serán declarados por la
 Presidenta o el Presidente de la República con la autorización del Congreso
@@ -4089,7 +4423,8 @@ Presidente de la República disponga su término con anterioridad o el
 Congreso de Diputadas y Diputados y la Cámara de las Regiones retiren su
 autorización.
 
-Artículo
+
+--Articulo--
 1. El estado de catástrofe, en caso de calamidad pública, será declarado por la
 Presidenta o el Presidente de la República. La declaración deberá establecer
 el ámbito de aplicación y el plazo de duración, el que no podrá ser mayor a
@@ -4113,7 +4448,8 @@ al ejercicio del derecho de propiedad y adoptar todas las medidas
 extraordinarias de carácter legal y administrativo que sean necesarias para el
 pronto restablecimiento de la normalidad en la zona afectada.
 
-Artículo
+
+--Articulo--
 1. Los actos de la Presidenta o del Presidente de la República o de la jefa o del
 jefe de estado de excepción que tengan por fundamento la declaración del
 estado de excepción constitucional deberán señalar expresamente los
@@ -4134,7 +4470,8 @@ de la jefa o del jefe de estado de excepción a cargo.
 5. Las medidas que se adopten durante los estados de excepción no podrán,
 bajo ninguna circunstancia, prolongarse más allá de su vigencia.
 
-Artículo
+
+--Articulo--
 1. La ley regulará los estados de excepción, su declaración y la aplicación de las
 medidas legales y administrativas que procediera adoptar bajo ellos, en todo
 lo no regulado por esta Constitución. Dicha ley no podrá afectar las
@@ -4148,7 +4485,8 @@ excepción, así como de los hechos de gravedad que hubieran surgido con
 ocasión del estado de excepción constitucional. La omisión de este deber de
 rendición de cuentas se considerará una infracción a la Constitución.
 
-Artículo
+
+--Articulo--
 1. Una vez declarado el estado de excepción, se constituirá una Comisión de
 Fiscalización dependiente del Congreso de Diputadas y Diputados, de
 composición paritaria y plurinacional, integrada por diputadas y diputados,
@@ -4165,14 +4503,16 @@ o la ley, debe efectuar las denuncias pertinentes, las cuales serán remitidas y
 conocidas por los órganos competentes. La ley regulará su integración y
 funcionamiento.
 
-Artículo
+
+--Articulo--
 Las medidas adoptadas en ejercicio de las facultades conferidas en los
 estados de excepción constitucional podrán ser objeto de revisión por los
 tribunales de justicia tanto en su mérito como en su forma. Las requisiciones
 que se practiquen darán lugar a indemnizaciones conforme a la ley. CAPÍTULO IX
 SISTEMAS DE JUSTICIA
 
-Artículo
+
+--Articulo--
 1. La jurisdicción es una función pública que se ejerce en nombre de los pueblos
 y que consiste en conocer y juzgar, por medio de un debido proceso, los
 conflictos de relevancia jurídica y hacer ejecutar lo resuelto, conforme a la
@@ -4185,12 +4525,14 @@ dictadas conforme a ella.
 derechos humanos y de la naturaleza, del sistema democrático y el principio
 de juridicidad.
 
-Artículo
+
+--Articulo--
 Los tribunales de justicia se estructuran conforme al principio de unidad
 jurisdiccional como base de su organización y funcionamiento y están
 sujetos al mismo estatuto jurídico y a los mismos principios.
 
-Artículo
+
+--Articulo--
 1. El Estado reconoce los sistemas jurídicos de los pueblos y naciones
 indígenas, los que en virtud de su derecho a la libre determinación coexisten
 coordinados en un plano de igualdad con el Sistema Nacional de Justicia.
@@ -4201,7 +4543,8 @@ humanos de los que Chile es parte.
 resolución de conflictos de competencia entre los sistemas jurídicos
 indígenas y las entidades estatales.
 
-Artículo
+
+--Articulo--
 1. Las juezas y jueces que ejercen jurisdicción son independientes entre sí y de
 todo otro poder o autoridad, debiendo actuar y resolver de forma imparcial.
 En sus providencias, solo están sometidos al imperio de la ley.
@@ -4216,7 +4559,8 @@ salvo actividades académicas en los términos que establezca la ley.
 desempeñar función administrativa ni legislativa alguna.
 5 Las juezas y jueces no podrán militar en partidos políticos.
 
-Artículo
+
+--Articulo--
 1. La función jurisdiccional debe ejercerse bajo un enfoque interseccional y
 debe garantizar la igualdad sustantiva y el cumplimiento de las obligaciones
 internacionales de derechos humanos en la materia.
@@ -4224,7 +4568,8 @@ internacionales de derechos humanos en la materia.
 y funcionarios del Sistema Nacional de Justicia, durante todo el curso del
 proceso y en todas las actuaciones que realicen.
 
-Artículo
+
+--Articulo--
 1. La función jurisdiccional se regirá por los principios de paridad y perspectiva
 de género. Todos los órganos y personas que intervienen en la función
 jurisdiccional deben garantizar la igualdad sustantiva.
@@ -4237,7 +4582,8 @@ de género.
 sancionar y erradicar la violencia contra mujeres, diversidades y disidencias
 sexuales y de género, en todas sus manifestaciones y ámbitos.
 
-Artículo
+
+--Articulo--
 Las juezas y los jueces no podrán ser acusados o privados de libertad, salvo
 en caso de delito flagrante, si la corte de apelaciones correspondiente no
 declara admisible uno o más capítulos de la acusación respectiva. La
@@ -4245,31 +4591,39 @@ resolución que se pronuncie acerca de la querella de capítulos será apelable
 ante la Corte Suprema. Encontrándose firme la resolución que acoge la
 querella, el procedimiento penal continuará de acuerdo con las reglas
 generales y la jueza o el juez quedará suspendido del ejercicio de sus
-funciones. Artículo 314
+funciones.
+
+
+
+--Articulo--
 Las juezas y los jueces son inamovibles. No pueden ser suspendidos,
 trasladados o removidos, sino conforme a las causales y procedimientos
 establecidos por la Constitución y las leyes.
 
-Artículo
+
+--Articulo--
 Las juezas y los jueces son personalmente responsables por los delitos de
 cohecho, falta de observancia en materia sustancial de las leyes que reglan el
 procedimiento y, en general, por toda prevaricación, denegación o torcida
 administración de justicia. La ley determinará los casos y el modo de hacer
 efectiva esta responsabilidad.
 
-Artículo
+
+--Articulo--
 Las juezas y los jueces cesan en sus cargos por cumplir los setenta años de
 edad, por renuncia, por constatarse una incapacidad legal sobreviniente o por
 remoción.
 
-Artículo
+
+--Articulo--
 1. Reclamada su intervención en la forma legal y sobre materias de su
 competencia, los tribunales no podrán excusarse de ejercer su función en un
 tiempo razonable ni aun a falta de norma jurídica expresa que resuelva el
 asunto sometido a su decisión.
 2. El ejercicio de la jurisdicción es indelegable.
 
-Artículo
+
+--Articulo--
 1. Para hacer ejecutar las resoluciones y practicar o hacer practicar las
 actuaciones que determine la ley, los tribunales de justicia podrán impartir
 órdenes o instrucciones directas a la fuerza pública. Estas deben cumplir lo
@@ -4281,7 +4635,8 @@ por este serán cumplidas por los tribunales de justicia conforme al
 procedimiento establecido por la ley, aun si aquellas contravienen una
 sentencia firme pronunciada por estos.
 
-Artículo
+
+--Articulo--
 1. Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje
 claro e inclusivo. La ley podrá establecer excepciones al deber de
 fundamentación de las resoluciones judiciales.
@@ -4289,19 +4644,22 @@ fundamentación de las resoluciones judiciales.
 públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en
 casos calificados.
 
-Artículo
+
+--Articulo--
 1. El acceso a la función jurisdiccional será gratuito, sin perjuicio de las
 actuaciones judiciales y sanciones procesales establecidas por la ley.
 2. La justicia arbitral será siempre voluntaria. La ley no podrá establecer
 arbitrajes forzosos.
 
-Artículo
+
+--Articulo--
 La función jurisdiccional se basa en los principios rectores de la justicia
 abierta, que se manifiesta en la transparencia, participación y colaboración,
 con el fin de garantizar el Estado de derecho, promover la paz social y
 fortalecer la democracia.
 
-Artículo
+
+--Articulo--
 1. La función jurisdiccional se define en su estructura, integración y
 procedimientos conforme a los principios de plurinacionalidad, pluralismo
 jurídico e interculturalidad.
@@ -4312,13 +4670,15 @@ las costumbres, las tradiciones, los protocolos y los sistemas normativos de
 los pueblos indígenas, conforme a los tratados e instrumentos
 internacionales de derechos humanos de los que Chile es parte.
 
-Artículo
+
+--Articulo--
 1. Es deber del Estado promover e implementar mecanismos colaborativos de
 resolución de conflictos que garanticen la participación activa y el diálogo.
 2. Solo la ley podrá determinar los requisitos y efectos de los mecanismos
 alternativos de resolución de conflictos.
 
-Artículo
+
+--Articulo--
 1. Las personas que ejercen jurisdicción en órganos unipersonales o colegiados
 se denominan juezas o jueces. No existirá jerarquía entre quienes ejercen
 jurisdicción y solo se diferenciarán por la función que desempeñen. Además,
@@ -4328,22 +4688,26 @@ cortes de apelaciones solo podrán ser integradas por personas que tengan la
 calidad de juezas o jueces titulares, interinos, suplentes o subrogantes. 3. La planta de personal y organización administrativa interna de los tribunales
 será establecida por la ley.
 
-Artículo
+
+--Articulo--
 El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente,
 se destinarán en la Ley de Presupuestos los fondos necesarios para su
 adecuado funcionamiento.
 
-Artículo
+
+--Articulo--
 Los tribunales deberán cumplir con el principio de proximidad e itinerancia.
 Con la finalidad de garantizar el acceso a la justicia y a la tutela jurisdiccional
 efectiva, podrán funcionar en localidades situadas fuera de su lugar de
 asiento, siempre dentro del territorio de su competencia.
 
-Artículo
+
+--Articulo--
 El Sistema Nacional de Justicia está integrado por la justicia vecinal, los
 tribunales de instancia, las cortes de apelaciones y la Corte Suprema.
 
-Artículo
+
+--Articulo--
 1. La Corte Suprema es un órgano colegiado con jurisdicción en todo el país
 que tiene como función velar por la correcta aplicación del derecho y
 uniformar su interpretación, así como las demás atribuciones que
@@ -4357,13 +4721,15 @@ sus pares. Durará en sus funciones dos años sin posibilidad de ejercer
 nuevamente el cargo. Quien ejerza la Presidencia no podrá integrar ninguna
 de las salas.
 
-Artículo
+
+--Articulo--
 La Corte Suprema conocerá y resolverá las impugnaciones deducidas en
 contra de las decisiones de la jurisdicción indígena, lo hará en sala
 especializada y asistida por una consejería técnica integrada por expertos en
 su cultura y derecho propio, en la forma que establezca la ley.
 
-Artículo
+
+--Articulo--
 1. Las cortes de apelaciones son órganos colegiados con jurisdicción sobre una
 región o parte de ella. Su función principal es resolver las impugnaciones de
 las resoluciones dictadas por los tribunales de instancia, así como las demás
@@ -4372,14 +4738,16 @@ competencias que establezcan la Constitución y la ley.
 3. La presidencia de cada corte de apelaciones será ejercida por una persona
 elegida por sus pares. Durará en sus funciones dos años.
 
-Artículo
+
+--Articulo--
 1. Son tribunales de instancia los civiles, penales, de familia, laborales, de
 competencia común o mixtos, administrativos, ambientales, vecinales, de
 ejecución de pena y los demás que establezcan la Constitución y ley.
 2. La organización, las atribuciones, la competencia y el número de juezas o
 jueces que integran estos tribunales son determinados por la ley.
 
-Artículo
+
+--Articulo--
 1. Los tribunales administrativos conocen y resuelven las acciones dirigidas en
 contra de la Administración del Estado o promovidas por esta y las demás
 materias que establezca la ley.
@@ -4390,7 +4758,8 @@ funcionar en salas especializadas.
 4. Los asuntos de competencia de estos tribunales no podrán ser sometidos a
 arbitraje.
 
-Artículo
+
+--Articulo--
 1. Los tribunales ambientales conocerán y resolverán acerca de la legalidad de
 los actos administrativos en materia ambiental, de la acción de tutela de
 derechos de la naturaleza y derechos ambientales, de la reparación por daño
@@ -4401,7 +4770,11 @@ necesarios para su adecuado funcionamiento.
 4. Las acciones para impugnar la legalidad de los actos administrativos que se
 pronuncien sobre materia ambiental y la solicitud de medidas cautelares
 podrán interponerse directamente ante los tribunales ambientales, sin que
-pueda exigirse el agotamiento previo de la vía administrativa. Artículo 334
+pueda exigirse el agotamiento previo de la vía administrativa.
+
+
+
+--Articulo--
 1. La justicia vecinal se compone de los juzgados vecinales y los centros de
 justicia vecinal.
 2. En cada comuna del país que sea asiento de una municipalidad habrá, a lo
@@ -4410,7 +4783,8 @@ todas aquellas controversias jurídicas que se susciten a nivel comunal que
 no sean competencia de otro tribunal y de los demás asuntos que la ley les
 encomiende, conforme a un procedimiento breve, oral, simple y expedito.
 
-Artículo
+
+--Articulo--
 1. Los centros de justicia vecinal son órganos encargados de promover la
 solución de conflictos vecinales y de pequeña cuantía dentro de una
 comunidad determinada por ley, sobre la base del diálogo social, la paz y la
@@ -4422,7 +4796,8 @@ como ejercer las demás funciones que la ley les encomiende.
 3. La organización, atribuciones, materias y procedimientos que correspondan
 a los centros de justicia vecinal se regirán por la ley respectiva.
 
-Artículo
+
+--Articulo--
 1. Los tribunales de ejecución de penas velarán por los derechos fundamentales
 de las personas condenadas o sujetas a medidas de seguridad, conforme a lo
 reconocido en esta Constitución y a los tratados e instrumentos
@@ -4433,7 +4808,8 @@ medidas de seguridad, control jurisdiccional de la potestad disciplinaria de
 las autoridades penitenciarias, protección de los derechos y beneficios de
 los internos en los establecimientos penitenciarios y demás que señale la ley.
 
-Artículo
+
+--Articulo--
 1. El sistema de cumplimiento de las sanciones penales y de las medidas de
 seguridad se organizará sobre la base del respeto a los derechos humanos y
 tendrá como objetivos el cumplimiento de la pena y la integración e inserción
@@ -4443,7 +4819,8 @@ privadas de libertad, velar por la protección y ejercicio efectivo de sus
 derechos fundamentales consagrados en esta Constitución y en los tratados
 e instrumentos internacionales sobre derechos humanos.
 
-Artículo
+
+--Articulo--
 1. Solo el Estado puede ejecutar el cumplimiento de penas y medidas privativas
 de libertad, a través de instituciones públicas especialmente establecidas
 para estos fines. Esta función no podrá ser cumplida por privados.
@@ -4454,7 +4831,8 @@ el estudio, el trabajo, el deporte, las artes y las culturas.
 adoptará las medidas necesarias, tales como infraestructura y equipamiento,
 en los regímenes de control cerrado, abierto y pospenitenciario.
 
-Artículo
+
+--Articulo--
 1. El Tribunal Calificador de Elecciones conocerá del escrutinio general y de la
 calificación de las elecciones de las autoridades electas por votación popular
 a nivel nacional, resolverá las reclamaciones que se susciten y proclamará a
@@ -4476,7 +4854,8 @@ la ley respectiva. Durarán seis años en sus funciones.
 7. Una ley regulará la organización y el funcionamiento del Tribunal Calificador
 de Elecciones, su planta, remuneraciones y estatuto del personal.
 
-Artículo
+
+--Articulo--
 1. Los tribunales electorales regionales están encargados de conocer el
 escrutinio general y la calificación de las elecciones de nivel regional, comunal y de organismos de la sociedad civil y demás organizaciones
 reconocidas por esta Constitución o por la ley, así como resolver las
@@ -4497,13 +4876,15 @@ en sus funciones.
 6. Una ley regulará la organización y el funcionamiento de los tribunales
 electorales regionales, plantas, remuneraciones y estatuto del personal.
 
-Artículo
+
+--Articulo--
 La gestión administrativa y la superintendencia directiva y correccional del
 Tribunal Calificador de Elecciones y de los tribunales electorales regionales
 corresponderá al Consejo de la Justicia.
 Consejo de la Justicia
 
-Artículo
+
+--Articulo--
 1. El Consejo de la Justicia es un órgano autónomo, técnico, paritario y
 plurinacional, con personalidad jurídica y patrimonio propio, cuya finalidad
 es fortalecer la independencia judicial. Está encargado de los
@@ -4513,7 +4894,8 @@ Nacional de Justicia.
 discriminación, la inclusión, la paridad de género, la equidad territorial y la
 plurinacionalidad.
 
-Artículo
+
+--Articulo--
 Son atribuciones del Consejo de la Justicia:
 a) Nombrar, previo concurso público y por resolución motivada, a todas las
 juezas, los jueces, las funcionarias y los funcionarios del Sistema Nacional
@@ -4569,7 +4951,8 @@ parcialidades cada tres años conforme a lo establecido por la ley.
 3. Sus integrantes serán elegidos de acuerdo con criterios de paridad de género,
 plurinacionalidad y equidad territorial.
 
-Artículo
+
+--Articulo--
 1. El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos
 casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio.
 2. El Consejo se organizará desconcentradamente. La ley determinará la
@@ -4577,7 +4960,8 @@ organización, el funcionamiento, los procedimientos de elección de
 integrantes del Consejo y fijará la planta, el régimen de remuneraciones y el
 estatuto de su personal.
 
-Artículo
+
+--Articulo--
 1. Quienes integren el Consejo no podrán ejercer otra función o empleo, sea o
 no remunerado, con exclusión de las actividades académicas. La ley podrá
 establecer otras incompatibilidades en el ejercicio del cargo.
@@ -4587,7 +4971,8 @@ su cometido.
 3. No podrán concursar para ser designados en cargos judiciales hasta
 transcurrido un año desde que cesen en sus funciones.
 
-Artículo
+
+--Articulo--
 1. Quienes integren el Consejo cesarán en su cargo al término de su período,
 por cumplir setenta años de edad, por remoción, renuncia, incapacidad física
 o mental sobreviniente o condena por delito que merezca pena aflictiva.
@@ -4596,7 +4981,8 @@ constatada, según corresponda, por el Consejo.
 3. El proceso de remoción será determinado por la ley, respetando todas las
 garantías de un debido proceso.
 
-Artículo
+
+--Articulo--
 1. El Consejo efectuará los nombramientos mediante concursos públicos
 regulados por la ley, los que incluirán audiencias públicas.
 2. Para acceder a un cargo de jueza o juez dentro del Sistema Nacional de
@@ -4607,7 +4993,8 @@ instancia; con cinco años para el caso de las cortes de apelaciones, y con
 veinte años para el caso de la Corte Suprema, y los demás requisitos que
 establezcan la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. Los procedimientos disciplinarios serán conocidos y resueltos por una
 comisión compuesta por cinco integrantes del Consejo que se elegirán por
 sorteo, decisión que será revisable por su pleno a petición del afectado.
@@ -4618,13 +5005,15 @@ revisadas ni impugnadas ante otros órganos del Sistema Nacional de Justicia. CA
 ÓRGANOS AUTÓNOMOS CONSTITUCIONALES
 
 
-Artículo
+
+--Articulo--
 Todos los órganos autónomos se rigen por el principio de paridad. Se
 promueve la implementación de medidas de acción afirmativa, asegurando
 que al menos el cincuenta por ciento de sus integrantes sean mujeres.
 Contraloría General de la República
 
-Artículo
+
+--Articulo--
 1. La Contraloría General de la República es un órgano técnico, autónomo, con
 personalidad jurídica y patrimonio propio, encargada de velar por el
 cumplimiento del principio de probidad en la función pública, ejercer el
@@ -4639,7 +5028,8 @@ de las decisiones políticas o administrativas.
 procedimientos y las demás atribuciones de la Contraloría General de la
 República.
 
-Artículo
+
+--Articulo--
 1. En el ejercicio del control de constitucionalidad y legalidad, la Contraloría
 General tomará razón de los decretos, resoluciones y otros actos
 administrativos o representará su ilegalidad. Deberá darles curso cuando la
@@ -4662,7 +5052,8 @@ Contraloría, la toma de razón corresponderá a la respectiva contraloría
 regional. Los antecedentes que debieran remitirse, en su caso, lo serán a la
 correspondiente asamblea regional.
 
-Artículo
+
+--Articulo--
 1. La dirección de la Contraloría General de la República está a cargo de una
 contralora o un contralor general, quien será designado por la Presidenta o el
 Presidente de la República, con el acuerdo del Congreso de Diputadas y
@@ -4677,7 +5068,8 @@ a su juicio, deben necesariamente ser incluidos en el referido programa.
 4. Los dictámenes que modifican la jurisprudencia administrativa de la
 Contraloría serán consultados al Consejo.
 
-Artículo
+
+--Articulo--
 1. La Contraloría General de la República podrá emitir dictámenes obligatorios
 para toda autoridad, funcionario o trabajador de cualquier órgano integrante
 de la Administración del Estado, de las regiones y de las comunas, incluyendo
@@ -4691,7 +5083,8 @@ estarán sujetos a la fiscalización y auditorías de la Contraloría General de
 República. La ley regulará el ejercicio de estas potestades fiscalizadoras y
 auditoras.
 
-Artículo
+
+--Articulo--
 1. La Contraloría General de la República funcionará desconcentradamente en
 cada una de las regiones del país mediante contralorías regionales. 2. La dirección de cada contraloría regional estará a cargo de una contralora o
 un contralor regional, que designará la contralora o el contralor general de la
@@ -4704,7 +5097,8 @@ regulará su organización y funcionamiento.
 las entidades territoriales, la gestión y los resultados de la administración de
 los recursos públicos.
 
-Artículo
+
+--Articulo--
 Las tesorerías del Estado no podrán efectuar ningún pago sino en virtud de
 un decreto o resolución expedido por una autoridad competente, en que se
 exprese la ley o la parte del presupuesto que autorice aquel gasto. Los pagos
@@ -4712,14 +5106,16 @@ se efectuarán considerando, además, el orden cronológico establecido en ella
 y previa refrendación presupuestaria del documento que ordene el pago.
 Banco Central
 
-Artículo
+
+--Articulo--
 1. El Banco Central es un órgano autónomo con personalidad jurídica y
 patrimonio propio, de carácter técnico, encargado de formular y conducir la
 política monetaria.
 2. La ley regulará su organización, atribuciones y sistemas de control, así como
 la determinación de instancias de coordinación entre el Banco y el Gobierno.
 
-Artículo
+
+--Articulo--
 1. Le corresponde en especial al Banco Central, para contribuir al bienestar de
 la población, velar por la estabilidad de los precios y el normal
 funcionamiento de los pagos internos y externos.
@@ -4730,14 +5126,16 @@ señalen la Constitución y la ley.
 3. El Banco, al adoptar sus decisiones, deberá tener presente la orientación
 general de la política económica del Gobierno.
 
-Artículo
+
+--Articulo--
 Son atribuciones del Banco Central la regulación de la cantidad de dinero y
 de crédito en circulación, la ejecución de operaciones de crédito y cambios
 internacionales, y la potestad para dictar normas en materia monetaria,
 crediticia, financiera y de cambios internacionales, y las demás que
 establezca la ley.
 
-Artículo
+
+--Articulo--
 1. El Banco Central solo podrá efectuar operaciones con instituciones
 financieras, sean estas públicas o privadas. De ninguna manera podrá
 otorgarles su garantía ni adquirir documentos emitidos por el Estado, sus
@@ -4750,7 +5148,8 @@ internos y externos, el Banco Central podrá comprar durante un período
 determinado y vender en el mercado secundario abierto, instrumentos de
 deuda emitidos por el fisco, en conformidad con la ley.
 
-Artículo
+
+--Articulo--
 El Banco Central rendirá cuenta periódica al Congreso de Diputadas y
 Diputados y a la Cámara de las Regiones en sesión conjunta, sobre la
 ejecución de las políticas a su cargo, las medidas y normas generales que
@@ -4758,7 +5157,8 @@ adopte en el ejercicio de sus funciones y atribuciones y los demás asuntos
 que se le soliciten, mediante informes u otros mecanismos que determine la
 ley.
 
-Artículo
+
+--Articulo--
 1. La dirección y administración superior del Banco Central estará a cargo de
 un consejo, al que le corresponderá cumplir las funciones y ejercer las
 atribuciones que señalen la Constitución y la ley.
@@ -4777,7 +5177,8 @@ entre quienes integren el Consejo, y durará cinco años en este cargo o el
 tiempo menor que le reste como consejero, pudiendo ser reelegido para un
 nuevo período.
 
-Artículo
+
+--Articulo--
 1. Quienes integren el Consejo podrán ser destituidos de sus cargos por
 resolución de la mayoría de los integrantes del pleno de la Corte Suprema,
 previo requerimiento de la mayoría de quienes ejerzan como consejeros, de
@@ -4793,7 +5194,8 @@ consecución del objeto del Banco Central.
 ni ser funcionaria del Banco Central o prestarle servicios, sin perjuicio de las
 demás sanciones que establezca la ley.
 
-Artículo
+
+--Articulo--
 1. No podrán integrar el Consejo quienes en los doce meses anteriores a su
 designación hayan participado en la propiedad o ejercido como director,
 gerente o ejecutivo principal de una empresa bancaria, administradora de
@@ -4803,7 +5205,8 @@ sin perjuicio de las demás inhabilidades que establezca la ley.
 la misma inhabilidad por un período de doce meses.
 Ministerio Público
 
-Artículo
+
+--Articulo--
 1. El Ministerio Público es un organismo autónomo y jerarquizado, cuya función
 es dirigir en forma exclusiva la investigación de los hechos que pudiesen ser
 constitutivos de delito, los que determinen la participación punible y los que
@@ -4831,7 +5234,8 @@ menos que esta sea oral, de la autorización judicial.
 del ejercicio de los derechos que esta Constitución asegura requerirán
 siempre autorización judicial previa y motivada.
 
-Artículo
+
+--Articulo--
 1. Una ley determinará la organización y las atribuciones del Ministerio Público,
 señalará las calidades y los requisitos que deberán cumplir quienes se
 desempeñen como fiscales y sus causales de remoción.
@@ -4843,7 +5247,8 @@ que garantice una carrera que permita fomentar la excelencia técnica y la
 acumulación de experiencia en las funciones que estos desempeñan.
 Cesarán en su cargo al cumplir setenta años.
 
-Artículo
+
+--Articulo--
 1. Existirá una fiscalía regional en cada región del país, sin perjuicio de que la
 ley pueda establecer más de una por región. 2. Quienes ejerzan como fiscales regionales deberán haberse desempeñado
 como fiscales adjuntos durante cinco o más años, no haber ejercido como
@@ -4853,7 +5258,8 @@ las demás calidades que establezca la ley.
 a la función que ejercían en el Ministerio Público. No podrán ser reelectos ni
 postular nuevamente al cargo de fiscal regional.
 
-Artículo
+
+--Articulo--
 1. La dirección superior del Ministerio Público reside en la o el fiscal nacional,
 quien durará seis años en el cargo, sin reelección.
 2. Se nombrará en sesión conjunta del Congreso de Diputadas y Diputados y de
@@ -4878,7 +5284,8 @@ f) Designar a fiscales adjuntos, a partir de una terna elaborada por el Comité
 del Ministerio Público.
 g) Las demás atribuciones que establezcan la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. Existirá un Comité del Ministerio Público, integrado por las y los fiscales
 regionales y la o el fiscal nacional, quien lo presidirá.
 2. El Comité deberá fijar la política de persecución penal y los criterios de
@@ -4897,19 +5304,22 @@ e) Proponer al fiscal nacional las ternas para el nombramiento de los fiscales
 adjuntos.
 f) Las demás atribuciones que establezcan la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 Existirán fiscales adjuntos del Ministerio Público, quienes ejercerán su
 función en los casos específicos que se les asignen, conforme a lo
 establecido en la Constitución y las leyes.
 
-Artículo
+
+--Articulo--
 Quien ejerza como fiscal nacional y quienes se desempeñen como fiscales
 regionales deberán rendir anualmente una cuenta pública de su gestión. En el
 primer caso se rendirá la cuenta ante el Congreso de Diputadas y Diputados
 y la Cámara de las Regiones, en sesión conjunta y, en el segundo, ante la
 asamblea regional respectiva.
 
-Artículo
+
+--Articulo--
 1. Quien ejerza como fiscal nacional y los fiscales regionales serán removidos
 por la Corte Suprema, a requerimiento de la Presidenta o del Presidente de la
 República, del Congreso de Diputadas y Diputados, o de diez de sus
@@ -4920,7 +5330,8 @@ deberá reunir el voto conforme de la mayoría de sus integrantes en ejercicio.
 2. La remoción de los fiscales regionales también podrá ser solicitada por quien
 ejerza como fiscal nacional. Defensoría Penal Pública
 
-Artículo
+
+--Articulo--
 1. La Defensoría Penal Pública es un organismo autónomo, con personalidad
 jurídica y patrimonio propio, cuya función es proporcionar defensa penal a
 los imputados por hechos que pudiesen ser constitutivos de crimen, simple
@@ -4933,7 +5344,8 @@ ante los organismos internacionales de derechos humanos.
 3. La ley determinará la organización y atribuciones de la Defensoría Penal
 Pública, debiendo garantizar su independencia externa.
 
-Artículo
+
+--Articulo--
 1. La función de defensa penal pública será ejercida por defensoras y
 defensores penales públicos.
 2. Los servicios de defensa jurídica que preste la Defensoría Penal Pública no
@@ -4941,7 +5353,8 @@ podrán ser licitados o delegados en abogados particulares, sin perjuicio de la
 contratación excepcional que se pueda realizar en los casos y forma que
 establezca la ley.
 
-Artículo
+
+--Articulo--
 1. La dirección superior de la Defensoría Penal Pública será ejercida por la
 defensora o el defensor nacional, quien durará seis años en su cargo, sin
 reelección.
@@ -4951,14 +5364,16 @@ partir de una terna propuesta por la Presidenta o el Presidente de la
 República, conforme al procedimiento y los requisitos que determine la ley.
 Agencia Nacional de Protección de Datos
 
-Artículo
+
+--Articulo--
 Existirá un órgano autónomo denominado Agencia Nacional de Protección
 de Datos, que velará por la promoción y protección de los datos personales,
 con facultades de normar, investigar, fiscalizar y sancionar a entidades
 públicas y privadas, el que contará con las atribuciones, la composición y las
 funciones que determine la ley.
 
-Artículo
+
+--Articulo--
 La Corte Constitucional es un órgano autónomo, técnico y profesional,
 encargado de ejercer la justicia constitucional para garantizar la supremacía
 de la Constitución, de acuerdo con los principios de deferencia al órgano
@@ -4966,7 +5381,8 @@ legislativo, presunción de constitucionalidad de la ley y búsqueda de una
 interpretación conforme con la Constitución. Sus resoluciones se fundan
 únicamente en razones de derecho.
 
-Artículo
+
+--Articulo--
 1. La Corte Constitucional estará conformada por once integrantes, uno de los
 cuales la presidirá. Será elegido por sus pares y ejercerá sus funciones por
 dos años.
@@ -4992,13 +5408,15 @@ académica y, preferentemente, de distintas especialidades del derecho.
 fijará la planta, el régimen de remuneraciones y el estatuto del personal de la
 Corte Constitucional.
 
-Artículo
+
+--Articulo--
 Quienes integren la Corte Constitucional son independientes de todo otro
 poder y gozan de inamovilidad. Cesan en sus cargos por haber cumplido su
 período, por incapacidad legal sobreviniente, por renuncia, por sentencia penal condenatoria, por remoción, por enfermedad incompatible con el
 ejercicio de la función o por otra causa establecida en la ley.
 
-Artículo
+
+--Articulo--
 1. El ejercicio del cargo de jueza o juez de la Corte Constitucional es de
 dedicación exclusiva.
 2. No podrán ser juezas o jueces de la Corte Constitucional quienes se hubiesen
@@ -5014,7 +5432,8 @@ autoridad pública alguna.
 4. La ley determinará las demás incompatibilidades e inhabilidades para el
 desempeño de este cargo.
 
-Artículo
+
+--Articulo--
 1. La Corte Constitucional tendrá las siguientes atribuciones:
 a) Conocer y resolver la inaplicabilidad de un precepto legal cuyos efectos
 sean contrarios a la Constitución.
@@ -5087,7 +5506,8 @@ conflicto.
 ejercicio de cada atribución se determinará por la ley.
 
 
-Artículo
+
+--Articulo--
 1. Las sentencias de la Corte Constitucional se adoptarán, en sala o en pleno,
 por la mayoría de sus integrantes, sin perjuicio de las excepciones que
 establezcan la Constitución o la ley.
@@ -5103,7 +5523,8 @@ vinculante, de cumplimiento obligatorio para toda institución, persona o
 grupo, y contra ella no cabe recurso alguno.
 
 
-Artículo
+
+--Articulo--
 1. Los proyectos de reforma de la Constitución podrán ser iniciados por
 mensaje presidencial, moción de diputadas y diputados o representantes
 regionales, por iniciativa popular o iniciativa indígena.
@@ -5120,7 +5541,8 @@ proyectos de reforma constitucional las disposiciones que regulan el
 procedimiento de formación de la ley, debiendo respetarse siempre el
 quorum señalado en este artículo.
 
-Artículo
+
+--Articulo--
 1. La Presidenta o el Presidente de la República deberá convocar a referéndum
 ratificatorio tratándose de proyectos de reforma constitucional aprobados
 por el Congreso de Diputadas y Diputados y la Cámara de las Regiones, que
@@ -5143,7 +5565,8 @@ mayoría de los votos válidamente emitidos en el referéndum.
 6. Es deber del Estado dar adecuada publicidad a la propuesta de reforma que
 se someterá a referéndum, de acuerdo con la Constitución y la ley.
 
-Artículo
+
+--Articulo--
 1. Un mínimo equivalente al diez por ciento de la ciudadanía correspondiente
 al último padrón electoral podrá presentar una propuesta de reforma
 constitucional para ser votada mediante referéndum nacional conjuntamente
@@ -5158,7 +5581,8 @@ dar adecuada publicidad a la o las propuestas de reforma que se someterán
 a referéndum.
 Procedimiento para elaborar una nueva Constitución
 
-Artículo
+
+--Articulo--
 1. El reemplazo total de la Constitución solo podrá realizarse a través de una
 Asamblea Constituyente convocada por medio de un referéndum.
 2. El referéndum constituyente podrá ser convocado por iniciativa popular. Un
@@ -5176,7 +5600,8 @@ ley aprobada por los dos tercios de sus integrantes en ejercicio.
 aprobada si en el referéndum es votada favorablemente por la mayoría de los
 votos válidamente emitidos.
 
-Artículo
+
+--Articulo--
 1. La Asamblea Constituyente tendrá como única función la redacción de una
 propuesta de nueva Constitución. Estará integrada paritariamente y con
 equidad territorial, con participación en igualdad de condiciones entre
@@ -5190,7 +5615,8 @@ generales que permitan su instalación y funcionamiento regular.
 autoridad competente, la Asamblea Constituyente se disolverá de pleno
 derecho.
 
-Artículo
+
+--Articulo--
 1. Entregada la propuesta de nueva Constitución, deberá convocarse a un
 referéndum para su aprobación o rechazo. Para que la propuesta sea
 aprobada, deberá obtener el voto favorable de más de la mitad de los
@@ -5216,7 +5642,8 @@ su normativa interna de conformidad con el principio de supremacía
 constitucional. Dentro de los cuatro años siguientes a la entrada en vigencia
 de esta Constitución, la iniciativa de derogación de ley contenida en el
 
-Artículo también procederá respecto a leyes promulgadas con
+
+--Articulo-- también procederá respecto a leyes promulgadas con
 anterioridad a esta.
 Tercera
 1. El Presidente de la República deberá iniciar el trámite legislativo para adecuar
@@ -5244,7 +5671,8 @@ de ley Nº 1, de 2006, del Ministerio del Interior.
 c) La Cámara de las Regiones se integrará por 3 representantes por región,
 quienes se elegirán conforme a las circunscripciones establecidas en el
 
-Artículo de la ley Nº18.700, cuyo texto refundido, coordinado y
+
+--Articulo-- de la ley Nº18.700, cuyo texto refundido, coordinado y
 sistematizado fue fijado por el decreto con fuerza de ley Nº 2, de 2017, del
 Ministerio Secretaría General de la Presidencia
 d) Para garantizar el equilibrio de género, se aplicará a la declaración de
@@ -5544,7 +5972,9 @@ Dentro de los cuatro años siguientes a la entrada en vigencia de esta
 Constitución, la o el Presidente de la República deberá presentar un proyecto
 de ley marco de ordenamiento territorial de acuerdo con lo establecido en el
 
-Artículo. El Poder Legislativo deberá tramitar el proyecto dentro de los
+
+--Articulo--
+El Poder Legislativo deberá tramitar el proyecto dentro de los
 dos años siguientes a su presentación.
 Vigesimoséptima
 1. El Presidente de la República deberá presentar proyectos de ley que tengan
@@ -5846,7 +6276,9 @@ el Congreso Pleno y los que correspondan al Consejo de la Justicia serán
 designados por la Corte Suprema, previos concursos públicos. Para cumplir
 con los nombramientos escalonados en el tiempo según lo establecido en el
 
-Artículo, inciso 2, se efectuará por única vez, por cada órgano facultado
+
+--Articulo--
+inciso 2, se efectuará por única vez, por cada órgano facultado
 para nombrar jueces y juezas, un sorteo al momento de realizar su
 designación en los siguientes términos:
 a) De los cuatro nombramientos que realizará el Congreso Nacional, uno
